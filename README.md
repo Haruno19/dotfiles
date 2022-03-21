@@ -1,10 +1,10 @@
 # Hi there! 👋🏻  
 ## 🎏 Me  
-Hi! I'm Haru, from Italy. I mainly code in **C++**, but I make other sort of stuff as well *(like websites)*! 💾  
+Hi! I'm Haru, from Italy. I mainly code in **C++**, but I can use some other languages as well! 💾  
 I'm currently studying **Computer Science** at **Bicocca University** in Milan. 🏛️
 
 ## 📯 My devices  
-I like to explore different enviroments, so I regularly use **MacOS**, **Windows** and **Arch Linux**.  
+I like to explore different environments, so I regularly use **MacOS**, **Windows** and **Arch Linux**.  
 My main devices are:  
 - my **14-inch M1 Pro MacBook Pro** 💻
 - my **Desktop PC** 🖥️ *(equipped with Arous B450 Elite, Ryzen 5 2600X, Radeon RX5700XT)*
