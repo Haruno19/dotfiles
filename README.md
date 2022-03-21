@@ -16,7 +16,7 @@ I'll also occasionally upload **school** or **university projects**. So... expec
 ## 🧬 Contact
 Feel free to contact me at my email address, and take a look at my personal website to learn more about myself!  
 - 📨 **mail**: stefano.gini01@gmail.com  
-- 🌎 **website**: [haruno.altervista.org](haruno.altervista.org)  
+- 🌎 **website**: [haruno.altervista.org](http://haruno.altervista.org)  
 
 <!--
 **Haruno19/Haruno19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
