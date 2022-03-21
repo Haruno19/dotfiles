@@ -7,7 +7,7 @@ I'm currently studying **Computer Science** at **Bicocca University** in Milan. 
 I like to explore different environments, so I regularly use **MacOS**, **Windows** and **Arch Linux**.  
 My main devices are:  
 - my **14-inch M1 Pro MacBook Pro** 💻
-- my **Desktop PC** 🖥️ *(equipped with Arous B450 Elite, Ryzen 5 2600X, Radeon RX5700XT)*
+- my **Desktop PC** 🖥️ *(equipped with Aorus B450 Elite, Ryzen 5 2600X, Radeon RX5700XT)*
 
 ## 🚀 Projects  
 I enjoy developing many different things, from uselss **command-line tools** to **physics problems** and **algotirhm implementations**.  
