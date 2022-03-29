@@ -1,6 +1,6 @@
 # Hi there! 👋🏻  
 ## 🎏 Me  
-Hi! I'm Haru, from Italy. I mainly code in **C++**, but I can use some other languages as well! 💾  
+Hi! I'm Haru, from Italy. I mainly code in **C++**, but I can use some other languages as well!   
 I'm currently studying **Computer Science** at **Bicocca University** in Milan. 🏛️
 
 ## 📯 My devices  
