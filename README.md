@@ -19,7 +19,7 @@ Feel free to contact me at my email address, and take a look at my personal webs
 - 🌎 **website**: [haruno.altervista.org](http://haruno.altervista.org)  
   
 ----
-<a href="https://www.buymeacoffee.com/haru19"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a tea&emoji=🍵&slug=haru19&button_colour=669c35&font_colour=ffffff&font_family=Bree&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+<a href="https://www.buymeacoffee.com/haru19" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a tea&emoji=🍵&slug=haru19&button_colour=669c35&font_colour=ffffff&font_family=Bree&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
 
 <!--
 **Haruno19/Haruno19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
