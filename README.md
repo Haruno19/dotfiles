@@ -10,7 +10,7 @@ My main devices are:
 - my **Desktop PC** 🖥️ *(equipped with Aorus B450 Elite, Ryzen 5 2600X, Radeon RX5700XT)*
 
 ## 🚀 Projects  
-I enjoy developing many different things, from uselss **command-line tools** to **physics problems** and **algotirhm implementations**.  
+I enjoy developing many different things, from uselss **command-line tools** to **maths problems** and **algotirhm implementations**.  
 I'll also occasionally upload **school** or **university projects**. So... expect various kind of stuff from my repos! 
 
 ## 🧬 Contact
