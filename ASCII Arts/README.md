@@ -15,6 +15,8 @@ Referencing mainly game sprites.
       gold
     </td>
     <td width="30%">
+      <img src="https://user-images.githubusercontent.com/61376940/164230354-4e4bd6d8-0411-4d1b-87b4-f950388095c0.png">
+      gold_run
     </td>
   </tr>
 </table>
