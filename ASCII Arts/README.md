@@ -1,6 +1,7 @@
 ## ASCII Arts
 
-RGB Colored ASCII arts drawn with Full Block characters █  
+RGB Colored ASCII arts drawn with Full Block characters █.   
+Referencing mainly games' sprites.
 
 ---
 <table>
