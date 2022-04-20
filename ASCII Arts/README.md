@@ -7,11 +7,11 @@ Referencing mainly game sprites.
 <table>
   <tr>
     <td width="30%">
-      <img src="https://user-images.githubusercontent.com/61376940/164202863-3b97e1ea-4b51-4052-a6e1-98e25999b45f.png">
+      <img src="https://user-images.githubusercontent.com/61376940/164205639-79cea77a-0fb8-4c97-a69f-e3ce910cf588.png">
       link
     </td>
     <td width="30%">
-      <img src="https://user-images.githubusercontent.com/61376940/164202998-37a40aef-3c7a-49b2-b62f-b474e1914dda.png">
+      <img src="https://user-images.githubusercontent.com/61376940/164205780-44cbb737-a70b-468a-9946-7db2ddcca4bd.png">
       gold
     </td>
     <td width="30%">
