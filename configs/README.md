@@ -1,8 +1,13 @@
 # configs / .dotfiles
 💾 config files & dotfiles from my setups! 
 
-## MacOS
-<img src="https://user-images.githubusercontent.com/61376940/160832679-ace7370a-d1b1-4196-a929-1789206a3d63.png"/>
+## MacOS  
+#### Mt. Fuji
+<img src="https://user-images.githubusercontent.com/61376940/160832679-ace7370a-d1b1-4196-a929-1789206a3d63.png"/>  
+
+#### Candy
+<img alt="candy" src="https://user-images.githubusercontent.com/61376940/164684252-8baf384a-f8b7-4a4d-8a6c-3908f88d829e.png">
+
 
 ## Windows 10
 
