@@ -4,23 +4,33 @@
 ## MacOS  
 ### Mt. Fuji
 <p align="center">
-  <img alt="fuji" src="https://user-images.githubusercontent.com/61376940/160832679-ace7370a-d1b1-4196-a929-1789206a3d63.png"/> 
+  <a href="https://www.reddit.com/r/unixporn/comments/trajg4/aquarectangle_getting_used_to_the_busy_life_of_a/">
+    <img alt="fuji" src="https://user-images.githubusercontent.com/61376940/160832679-ace7370a-d1b1-4196-a929-1789206a3d63.png"/> 
+  </a>
 </p>
 
 ### Candy
 <p align="center">
-  <img alt="candy" src="https://user-images.githubusercontent.com/61376940/164707175-d1e18c38-0c06-4b8a-9604-a1b029a5b88d.png">
+  <a href="https://www.reddit.com/r/unixporn/comments/u9d77l/aqua_candy/">
+    <img alt="candy" src="https://user-images.githubusercontent.com/61376940/164707175-d1e18c38-0c06-4b8a-9604-a1b029a5b88d.png">
+  </a>
 </p>
 
 ### Kyoto Streets
 <p align="center">
-  <img alt="kyoto" src="https://user-images.githubusercontent.com/61376940/165559855-2f126f9f-5b66-4fde-a228-0812ecc08b97.png">
+  <a href="https://www.reddit.com/r/unixporn/comments/udbpj8/aquarectangle_kyoto_streets/">
+    <img alt="kyoto" src="https://user-images.githubusercontent.com/61376940/165559855-2f126f9f-5b66-4fde-a228-0812ecc08b97.png">
+  </a>
 </p>
 
 
 ## Windows 10
 <p align="center">
-  <img src="https://i.imgur.com/N9Ey4Os.jpg" width="48%" />
+  <a href="https://www.reddit.com/r/Windows10/comments/n8esk0/my_current_setup_with_the_taskbar_on_the_left/">
+    <img src="https://i.imgur.com/N9Ey4Os.jpg" width="48%" />
+  </a>
   &nbsp;
-  <img src="https://i.imgur.com/HpZoXud.png" width="48%" />
+  <a href="https://www.reddit.com/r/Windows10/comments/mss6rz/kde_i_love_customizing_plasma_just_kidding_its/">
+    <img src="https://i.imgur.com/HpZoXud.png" width="48%" />
+  </a>
 </p>
