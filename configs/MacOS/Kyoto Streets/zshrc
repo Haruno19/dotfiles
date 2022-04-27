@@ -1,1 +1,2 @@
 PROMPT='%B %b %n%B [%b%.%B] ►%b '
+cat /Users/haru/Documents/ASCII\ Arts/login.txt
