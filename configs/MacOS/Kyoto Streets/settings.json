@@ -1,0 +1,33 @@
+{
+    "window.restoreWindows": "all",
+    "files.hotExit": "onExit",
+    "workbench.startupEditor": "none",
+    "extensions.ignoreRecommendations": true,
+    "files.associations": {
+        "*.pl": "prolog"
+    },
+    "editor.suggestSelection": "first",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true,
+        "**/.vscode": true
+    },
+    "editor.fontSize": 14,
+    "workbench.colorTheme": "Material Theme Darker High Contrast",
+    "workbench.productIconTheme": "icons-carbon",
+    "customizeUI.activityBar": "bottom",
+    "workbench.colorCustomizations": {
+        "editor.background": "#1a1a1a",
+        "tab.activeBackground": "#0f0f0f",
+        "tab.inactiveBackground": "#1a1a1a",
+        "sideBar.background": "#0f0f0f",
+        "sideBarSectionHeader.background": "#0f0f0f",
+        "activityBar.background": "#0f0f0f",
+        "statusBar.background": "#0f0f0f",
+        "scrollbarSlider.activeBackground": "#0f0f0f"
+    },
+    "workbench.list.smoothScrolling": true,
+    "editor.smoothScrolling": true
+}
