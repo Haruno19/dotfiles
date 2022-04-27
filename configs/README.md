@@ -21,6 +21,6 @@
 ## Windows 10
 <p align="center">
   <img src="https://i.imgur.com/N9Ey4Os.jpg" width="48%" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img src="https://i.imgur.com/HpZoXud.png" width="48%" />
 </p>
