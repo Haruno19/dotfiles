@@ -2,20 +2,6 @@
 💾 config files & dotfiles from my setups! 
 
 ## MacOS  
-### Mt. Fuji
-<p align="center">
-  <a href="https://www.reddit.com/r/unixporn/comments/trajg4/aquarectangle_getting_used_to_the_busy_life_of_a/">
-    <img alt="fuji" src="https://user-images.githubusercontent.com/61376940/160832679-ace7370a-d1b1-4196-a929-1789206a3d63.png"/> 
-  </a>
-</p>
-
-### Candy
-<p align="center">
-  <a href="https://www.reddit.com/r/unixporn/comments/u9d77l/aqua_candy/">
-    <img alt="candy" src="https://user-images.githubusercontent.com/61376940/164707175-d1e18c38-0c06-4b8a-9604-a1b029a5b88d.png">
-  </a>
-</p>
-
 ### Kyoto Streets
 <p align="center">
   <a href="https://www.reddit.com/r/unixporn/comments/udbpj8/aquarectangle_kyoto_streets/">
@@ -23,10 +9,24 @@
   </a>
 </p>
 
+### Mt. Fuji
+<p align="center">
+  <a href="https://www.reddit.com/r/unixporn/comments/trajg4/aquarectangle_getting_used_to_the_busy_life_of_a/">
+    <img alt="fuji" src="https://user-images.githubusercontent.com/61376940/160832679-ace7370a-d1b1-4196-a929-1789206a3d63.png"/> 
+  </a>
+</p>
+
 ### Minimal Green
 <p align="center">
   <a href="https://www.reddit.com/r/unixporn/comments/ugrots/aqua_is_it_minimal_enough/">
     <img alt="minimal green" src="https://user-images.githubusercontent.com/61376940/166264262-e172d658-ae2a-4b40-8a65-27c657f734ee.png">
+  </a>
+</p>
+
+### Candy
+<p align="center">
+  <a href="https://www.reddit.com/r/unixporn/comments/u9d77l/aqua_candy/">
+    <img alt="candy" src="https://user-images.githubusercontent.com/61376940/164707175-d1e18c38-0c06-4b8a-9604-a1b029a5b88d.png">
   </a>
 </p>
 
