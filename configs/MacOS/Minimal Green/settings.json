@@ -1,0 +1,69 @@
+{
+    "window.restoreWindows": "all",
+    "files.hotExit": "onExit",
+    "workbench.startupEditor": "none",
+    "extensions.ignoreRecommendations": true,
+    "files.associations": {
+        "*.pl": "prolog"
+    },
+    "editor.suggestSelection": "first",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true,
+        "**/.vscode": true
+    },
+    "editor.fontSize": 13,
+    "editor.fontFamily": "Menlo, Cascadia Mono Light, Space Mono, Victor Mono, Monaco, 'Courier New', monospace",
+    "workbench.colorTheme": "Material Theme Darker High Contrast",
+    "workbench.productIconTheme": "icons-carbon",
+    "workbench.colorCustomizations": {
+      "list.activeSelectionBackground": "#191919",
+      "list.hoverBackground": "#191919",
+      "editorWidget.background": "#191919",
+      "panel.background": "#191919",
+      "titleBar.activeBackground": "#191919",
+      "breadcrumbPicker.background": "#191919",
+      "settings.dropdownBackground": "#191919",
+      "settings.numberInputBackground": "#191919",
+      "settings.textInputBackground": "#191919",
+      "settings.checkboxBackground": "#191919",
+      "editor.background": "#1a1a1a",
+      "tab.activeBackground": "#0f0f0f",
+      "tab.inactiveBackground": "#1a1a1a",
+      "sideBar.background": "#0f0f0f",
+      "sideBarSectionHeader.background": "#0f0f0f",
+      "activityBar.background": "#0f0f0f",
+      "statusBar.background": "#0f0f0f",
+      "scrollbarSlider.activeBackground": "#0f0f0f",
+      "tab.activeBorder": "#1a1a1a00",
+      "editorGroupHeader.tabsBackground": "#1a1a1a",
+      "statusBar.noFolderBackground": "#1a1a1a",
+      "tab.border": "#1a1a1a",
+      "editorHoverWidget.background": "#1a1a1a",
+      "menu.background": "#1a1a1a",
+      "debugToolBar.background": "#1a1a1a",
+      "editorBracketMatch.background": "#1a1a1a",
+      "quickInput.background": "#1a1a1a",
+      "editorOverviewRuler.border": "#1a1a1a",
+      "notifications.background": "#1a1a1a",
+      "breadcrumb.background": "#1a1a1a"
+    },
+    "workbench.list.smoothScrolling": true,
+    "editor.smoothScrolling": true,
+    "customizeUI.activityBar": "bottom",
+    "customizeUI.titleBar": "inline",
+    "customizeUI.font.regular": "Menlo",
+    "customizeUI.fontSizeMap": {
+        "13px": "12px",
+        "monospace": "12px"
+    },
+    "customizeUI.stylesheet": {
+      ".tabs-container ": "padding-top:7px; padding-left:2px; padding-bottom:5px",
+      ".tabs-container > .tab": "border-radius: 7px 7px 7px 7px; height: 20px; margin-left: 5px; padding-right:4px",
+      ".monaco-editor .suggest-widget": "border-radius: 10px 10px 10px 10px; overflow:hidden;"
+    },
+    "window.titleBarStyle": "native",
+    "editor.minimap.enabled": false
+  }
