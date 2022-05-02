@@ -23,6 +23,13 @@
   </a>
 </p>
 
+### Minimal Green
+<p align="center">
+  <a href="https://www.reddit.com/r/unixporn/comments/ugrots/aqua_is_it_minimal_enough/">
+    <img alt="minimal green" src="https://user-images.githubusercontent.com/61376940/166264262-e172d658-ae2a-4b40-8a65-27c657f734ee.png">
+  </a>
+</p>
+
 
 ## Windows 10
 <p align="center">
