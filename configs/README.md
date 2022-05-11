@@ -1,20 +1,15 @@
 # configs / .dotfiles
 💾 config files & dotfiles from my setups! 
 
-## MacOS  
-### Kyoto Streets
+## MacOS   
+<!---
+### Deep Navy
 <p align="center">
-  <a href="https://www.reddit.com/r/unixporn/comments/udbpj8/aquarectangle_kyoto_streets/">
-    <img alt="kyoto" src="https://user-images.githubusercontent.com/61376940/165559855-2f126f9f-5b66-4fde-a228-0812ecc08b97.png">
+  <a href="https://www.reddit.com/r/unixporn/comments/u9d77l/aqua_candy/">
+    <img alt="deep navy" src="">
   </a>
 </p>
-
-### Mt. Fuji
-<p align="center">
-  <a href="https://www.reddit.com/r/unixporn/comments/trajg4/aquarectangle_getting_used_to_the_busy_life_of_a/">
-    <img alt="fuji" src="https://user-images.githubusercontent.com/61376940/160832679-ace7370a-d1b1-4196-a929-1789206a3d63.png"/> 
-  </a>
-</p>
+-->
 
 ### Minimal Green
 <p align="center">
@@ -23,10 +18,24 @@
   </a>
 </p>
 
+### Kyoto Streets
+<p align="center">
+  <a href="https://www.reddit.com/r/unixporn/comments/udbpj8/aquarectangle_kyoto_streets/">
+    <img alt="kyoto" src="https://user-images.githubusercontent.com/61376940/165559855-2f126f9f-5b66-4fde-a228-0812ecc08b97.png">
+  </a>
+</p>
+
 ### Candy
 <p align="center">
   <a href="https://www.reddit.com/r/unixporn/comments/u9d77l/aqua_candy/">
     <img alt="candy" src="https://user-images.githubusercontent.com/61376940/164707175-d1e18c38-0c06-4b8a-9604-a1b029a5b88d.png">
+  </a>
+</p>
+
+### Mt. Fuji
+<p align="center">
+  <a href="https://www.reddit.com/r/unixporn/comments/trajg4/aquarectangle_getting_used_to_the_busy_life_of_a/">
+    <img alt="fuji" src="https://user-images.githubusercontent.com/61376940/160832679-ace7370a-d1b1-4196-a929-1789206a3d63.png"/> 
   </a>
 </p>
 
