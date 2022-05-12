@@ -2,14 +2,12 @@
 💾 config files & dotfiles from my setups! 
 
 ## MacOS   
-<!---
 ### Deep Navy
 <p align="center">
-  <a href="https://www.reddit.com/r/unixporn/comments/u9d77l/aqua_candy/">
-    <img alt="deep navy" src="">
+  <a href="https://www.reddit.com/r/unixporn/comments/unv2ul/aqua_deep_blue_looks_so_elegant/">
+    <img alt="deep navy" src="https://user-images.githubusercontent.com/61376940/168022375-9a3cf7ba-c06b-45d4-8318-204d6ac86b9d.png">
   </a>
 </p>
--->
 
 ### Minimal Green
 <p align="center">
