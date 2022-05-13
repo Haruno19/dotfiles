@@ -1,5 +1,6 @@
 # configs / .dotfiles
-💾 config files & dotfiles from my setups! 
+💾 config files & dotfiles from my setups!  
+Click on the pictures to show the related cofig files
 
 ## MacOS   
 ### Deep Navy
