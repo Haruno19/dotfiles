@@ -6,7 +6,7 @@ Click on the pictures to show the related cofig files
 ### Monochrome
 <p align="center">
   <a href="https://github.com/Haruno19/Haruno19/tree/main/configs/MacOS/Monochrome">
-    <img alt="monochrome" src="https://user-images.githubusercontent.com/61376940/168486441-fc570e48-5fff-480b-ba97-cb613225534d.png">
+    <img alt="monochrome" src="https://user-images.githubusercontent.com/61376940/168486926-8429b1b2-16c5-468b-b703-180a54b4dd51.png">
   </a>
 </p>
 
