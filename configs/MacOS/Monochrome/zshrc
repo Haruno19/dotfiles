@@ -1,0 +1,15 @@
+
+export ZSH="$HOME/.oh-my-zsh"
+export PATH="/usr/local/bin:$PATH"
+export PATH="/opt/homebrew/opt/openjdk@11/bin:$PATH"
+export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"
+export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"
+
+
+ZSH_THEME="aditya" # set by `omz`
+plugins=(git)
+source $ZSH/oh-my-zsh.sh
+
+test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
+code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}
+echo "\n Welcome back\n"
