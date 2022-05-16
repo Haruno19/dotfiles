@@ -1,41 +1,57 @@
-# Hi there! 👋🏻  
-## 🎏 Me  
-Hi! I'm Haru, from Italy. I mainly code in **C++**, but I know some other language as well!   
-I'm currently studying **Computer Science** at **Bicocca University** in Milan. 🏛️
-
-## 📯 My devices  
-I like to explore different environments, so I regularly use **MacOS**, **Windows** and **Arch Linux**.  
-My main devices are:  
-- my **14-inch M1 Pro MacBook Pro** 💻
-- my **Desktop PC** 🖥️ *(equipped with Aorus B450 Elite, Ryzen 5 2600X, Radeon RX5700XT)*
-
-## 🚀 Projects  
-I enjoy developing many different things, from uselss **command-line tools** to **maths problems** and **algotirhm implementations**.  
-I'll also occasionally upload **school** or **university projects**. So... expect various kind of stuff from my repos! 
-
-## 🧬 Contact
-Feel free to contact me at my email address, and take a look at my personal website to learn more about me!  
-- 📨 **mail**: stefano.gini01@gmail.com  
-- 🌎 **website**: [haruno.altervista.org](http://haruno.altervista.org)  
-  
-----
-<a target="_blank" href="https://www.buymeacoffee.com/haru19"><img src="https://img.buymeacoffee.com/button-api/?text= Buy me a tea &emoji=🍵&slug=haru19&button_colour=669c35&font_colour=ffffff&font_family=Bree&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
-
-<!--
-<a href="https://www.buymeacoffee.com/haru19"><img width="170px" src="https://user-images.githubusercontent.com/61376940/162619331-8d0454e9-34f9-43ee-9ebc-2be4aed185d5.png"></a>
+<h1 align="center"> configs / .dotfiles </h1>
+<br>
+<p align="center"> Enjoy your visit through my designs </p>
+<h6 align="center"> <i>Click on the screenshots to reveal the related files </i></h6>
+<br>
 
 
-<!--
-**Haruno19/Haruno19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">  MacOS</h2>
+<h3 align="center"> Monochrome </h3>
+<p align="center">
+  <a href="https://github.com/Haruno19/Haruno19/tree/main/configs/MacOS/Monochrome">
+    <img width="60%" alt="monochrome" src="https://user-images.githubusercontent.com/61376940/168554836-362d3f0b-907e-45fb-af48-24d6cd25740f.png">
+  </a>
+</p><br>
 
-Here are some ideas to get you started:
+<h3 align="center"> Deep Navy </h3>
+<p align="center">
+  <a href="https://github.com/Haruno19/Haruno19/tree/main/configs/MacOS/Deep%20Navy">
+    <img width="60%" alt="deep navy" src="https://user-images.githubusercontent.com/61376940/168022375-9a3cf7ba-c06b-45d4-8318-204d6ac86b9d.png">
+  </a>
+</p><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center"> Minimal Green </h3>
+<p align="center">
+  <a href="https://github.com/Haruno19/Haruno19/tree/main/configs/MacOS/Minimal%20Green">
+    <img width="60%" alt="minimal green" src="https://user-images.githubusercontent.com/61376940/166264262-e172d658-ae2a-4b40-8a65-27c657f734ee.png">
+  </a>
+</p><br>
+
+<h3 align="center"> Kyoto Streets </h3>
+<p align="center">
+  <a href="https://github.com/Haruno19/Haruno19/tree/main/configs/MacOS/Kyoto%20Streets">
+    <img width="60%" alt="kyoto" src="https://user-images.githubusercontent.com/61376940/165559855-2f126f9f-5b66-4fde-a228-0812ecc08b97.png">
+  </a>
+</p><br>
+
+<h3 align="center"> Candy </h3>
+<p align="center">
+  <a href="https://github.com/Haruno19/Haruno19/tree/main/configs/MacOS/Candy">
+    <img width="60%" alt="candy" src="https://user-images.githubusercontent.com/61376940/168551409-4d417921-5293-447e-ac7e-163afab33fee.png">
+  </a>
+</p><br>
+
+<h3 align="center"> Mt. Fuji </h3>
+<p align="center">
+  <a href="https://github.com/Haruno19/Haruno19/tree/main/configs/MacOS/Mt.%20Fuji">
+    <img width="60%" alt="fuji" src="https://user-images.githubusercontent.com/61376940/160832679-ace7370a-d1b1-4196-a929-1789206a3d63.png"/> 
+  </a>
+</p><br><br>
+
+
+<h2 align="center"> ❖ Windows 10 </h2>
+<p align="center">
+  <img src="https://i.imgur.com/N9Ey4Os.jpg" width="28%" />
+  &nbsp;
+  <img src="https://i.imgur.com/HpZoXud.png" width="28%" />
+</p>
