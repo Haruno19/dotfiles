@@ -6,7 +6,7 @@ Click on the screenshots to get to the related config files
 ### Monochrome
 <p align="center">
   <a href="https://github.com/Haruno19/Haruno19/tree/main/configs/MacOS/Monochrome">
-    <img alt="monochrome" src="https://user-images.githubusercontent.com/61376940/168549513-4a13c6c8-583f-4f5f-b2c2-d5ee976c5cb9.png">
+    <img alt="monochrome" src="https://user-images.githubusercontent.com/61376940/168550862-3227692f-4f75-43d0-af69-e419bec5a1a4.png">
   </a>
 </p>
 
@@ -34,7 +34,7 @@ Click on the screenshots to get to the related config files
 ### Candy
 <p align="center">
   <a href="https://github.com/Haruno19/Haruno19/tree/main/configs/MacOS/Candy">
-    <img alt="candy" src="https://user-images.githubusercontent.com/61376940/164707175-d1e18c38-0c06-4b8a-9604-a1b029a5b88d.png">
+    <img alt="candy" src="https://user-images.githubusercontent.com/61376940/168551409-4d417921-5293-447e-ac7e-163afab33fee.png">
   </a>
 </p>
 
