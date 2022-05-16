@@ -1,4 +1,4 @@
-<h1 align="center"> configs / .dotfiles </h1>
+<h1 align="center"> .dotfiles </h1>
 <br>
 <p align="center"> Enjoy your visit through my gallery</p>
 <h6 align="center"> <i>Click on the screenshots to reveal the related files </i></h6>
