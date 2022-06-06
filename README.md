@@ -1,7 +1,7 @@
 <h1 align="center"> .dotfiles </h1>
 <br>
-<p align="center"> Enjoy your visit</p>
-<h6 align="center"> <i>Click on the images to reveal the configuration files </i></h6>
+<p align="center"> Enjoy your visit through my setups</p>
+<h6 align="center"> <i>Click on the images to reveal their configuration files </i></h6>
 <br>
 
 
