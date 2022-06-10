@@ -8,7 +8,7 @@
 <h2 align="center">  MacOS</h2>
 
 <h3 align="center">
-  <img style="display: block;" width="28px" src="https://user-images.githubusercontent.com/61376940/173090488-18b2eb8f-d312-4bb3-a375-550d929f28c6.png">
+  <img style="display: block;" width="23px" src="https://user-images.githubusercontent.com/61376940/173090488-18b2eb8f-d312-4bb3-a375-550d929f28c6.png">
   Phantom Thieves of Hearts
 </h3>
 <p align="center">
