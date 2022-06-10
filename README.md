@@ -8,8 +8,8 @@
 <h2 align="center">  MacOS</h2>
 
 <h3 align="center">
-  <img style="display: block;" width="23px" src="https://user-images.githubusercontent.com/61376940/173090488-18b2eb8f-d312-4bb3-a375-550d929f28c6.png">
-  Phantom Thieves of Hearts
+  <img style="display: block;" width="25px" src="https://user-images.githubusercontent.com/61376940/173090488-18b2eb8f-d312-4bb3-a375-550d929f28c6.png">
+  &nbsp;Phantom Thieves of Hearts
 </h3>
 <p align="center">
   <a href="https://github.com/Haruno19/dotfiles/tree/main/MacOS/Phantom%20Thieves%20of%20Hearts">
