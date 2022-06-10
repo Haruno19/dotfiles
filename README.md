@@ -6,7 +6,13 @@
 
 
 <h2 align="center">  MacOS</h2>
-<h3 align="center"> Sunset </h3>
+<h3 align="center"> Phantom Thieves of Hearts </h3>
+<p align="center">
+  <a href="https://github.com/Haruno19/dotfiles/tree/main/MacOS/Phantom%20Thieves%20Of%20Hearts">
+    <img width="70%" alt="PhantomThieves" src="https://user-images.githubusercontent.com/61376940/173088639-b79e50f3-641b-44e6-8bef-02e9b7ec38b5.png">
+  </a>
+</p><br>
+
 <p align="center">
   <a href="https://github.com/Haruno19/dotfiles/tree/main/MacOS/Sunset">
     <img width="70%" alt="sunset" src="https://user-images.githubusercontent.com/61376940/172182144-6be0411e-1710-40c9-8a29-9d5dbd001cd3.png">
