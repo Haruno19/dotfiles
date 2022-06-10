@@ -6,6 +6,7 @@
 
 
 <h2 align="center">  MacOS</h2>
+
 <h3 align="center"> Phantom Thieves of Hearts </h3>
 <p align="center">
   <a href="https://github.com/Haruno19/dotfiles/tree/main/MacOS/Phantom%20Thieves%20of%20Hearts">
