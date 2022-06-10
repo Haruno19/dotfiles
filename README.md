@@ -10,7 +10,7 @@
 <h3 align="center"> Phantom Thieves of Hearts </h3>
 <p align="center">
   <a href="https://github.com/Haruno19/dotfiles/tree/main/MacOS/Phantom%20Thieves%20of%20Hearts">
-    <img width="70%" alt="PhantomThieves" src="https://user-images.githubusercontent.com/61376940/173088639-b79e50f3-641b-44e6-8bef-02e9b7ec38b5.png">
+    <img width="70%" alt="PhantomThieves" src="https://user-images.githubusercontent.com/61376940/173090087-2d64461a-742d-4073-9f6b-ffbaa768baa8.png">
   </a>
 </p><br>
 
