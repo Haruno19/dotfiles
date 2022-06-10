@@ -7,7 +7,10 @@
 
 <h2 align="center">  MacOS</h2>
 
-<h3 align="center"> Phantom Thieves of Hearts </h3>
+<h3 align="center">
+  <img style="display: block;" width="28px" src="https://user-images.githubusercontent.com/61376940/173090488-18b2eb8f-d312-4bb3-a375-550d929f28c6.png">
+  Phantom Thieves of Hearts
+</h3>
 <p align="center">
   <a href="https://github.com/Haruno19/dotfiles/tree/main/MacOS/Phantom%20Thieves%20of%20Hearts">
     <img width="70%" alt="PhantomThieves" src="https://user-images.githubusercontent.com/61376940/173090087-2d64461a-742d-4073-9f6b-ffbaa768baa8.png">
