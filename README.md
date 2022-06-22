@@ -10,7 +10,7 @@
 <h3 align="center"> 赤桜 Aka Zakura </h3>
 <p align="center">
   <a href="https://github.com/Haruno19/dotfiles/tree/main/MacOS/Aka%20Zakura">
-    <img width="70%" alt="akazakura" src="https://user-images.githubusercontent.com/61376940/175124365-ad9c0bca-87c4-479d-bdff-f2daddb4db2d.png">
+    <img width="70%" alt="akazakura" src="https://user-images.githubusercontent.com/61376940/175126624-26fadceb-97ff-44ad-accc-679abf32b43a.png">
   </a>
 </p><br>
 
