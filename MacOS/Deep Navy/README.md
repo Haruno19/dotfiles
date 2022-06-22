@@ -6,7 +6,9 @@
   <br><br>
   My challange with this one was not to use any greyscale color, or even black and white, and create an overall elegant and pleasant-looking setup. 
   <br><br>
-  The problem with solarized color schemes is that, in my opinion, they generally tend to look too extravagant and, overall, eventually, "inconsistent". That's why for <b>Deep Navy</b> I chose pale and dull colors, soft to the eye but still contrasting enough to make a good color scheme.
+  The problem with solarized color schemes is that, in my opinion, they generally tend to look too extravagant and, overall, eventually, "inconsistent".
+  <br><br>
+  That's why for <b>Deep Navy</b> I chose a set of pale and dull colors, soft to the eye but still contrasting enough to make a good color scheme.
   <br><br>
   
   <table><tr><td>
