@@ -7,20 +7,10 @@
 
 <h2 align="center">  MacOS</h2>
 
-<h3 align="center"> Aka Zakura </h3>
+<h3 align="center"> 赤桜 Aka Zakura </h3>
 <p align="center">
   <a href="https://github.com/Haruno19/dotfiles/tree/main/MacOS/Aka%20Zakura">
     <img width="70%" alt="akazakura" src="https://user-images.githubusercontent.com/61376940/175124365-ad9c0bca-87c4-479d-bdff-f2daddb4db2d.png">
-  </a>
-</p><br>
-
-<h3 align="center">
-  <img style="display: block;" width="25px" src="https://user-images.githubusercontent.com/61376940/173090488-18b2eb8f-d312-4bb3-a375-550d929f28c6.png">
-  &nbsp;Phantom Thieves of Hearts
-</h3>
-<p align="center">
-  <a href="https://github.com/Haruno19/dotfiles/tree/main/MacOS/Phantom%20Thieves%20of%20Hearts">
-    <img width="70%" alt="PhantomThieves" src="https://user-images.githubusercontent.com/61376940/173090087-2d64461a-742d-4073-9f6b-ffbaa768baa8.png">
   </a>
 </p><br>
 
@@ -49,6 +39,16 @@
 <p align="center">
   <a href="https://github.com/Haruno19/dotfiles/tree/main/MacOS/Minimal%20Green">
     <img width="70%" alt="minimal green" src="https://user-images.githubusercontent.com/61376940/166264262-e172d658-ae2a-4b40-8a65-27c657f734ee.png">
+  </a>
+</p><br>
+
+<h3 align="center">
+  <img style="display: block;" width="25px" src="https://user-images.githubusercontent.com/61376940/173090488-18b2eb8f-d312-4bb3-a375-550d929f28c6.png">
+  &nbsp;Phantom Thieves of Hearts
+</h3>
+<p align="center">
+  <a href="https://github.com/Haruno19/dotfiles/tree/main/MacOS/Phantom%20Thieves%20of%20Hearts">
+    <img width="70%" alt="PhantomThieves" src="https://user-images.githubusercontent.com/61376940/173090087-2d64461a-742d-4073-9f6b-ffbaa768baa8.png">
   </a>
 </p><br>
 
