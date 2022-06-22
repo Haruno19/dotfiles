@@ -4,7 +4,7 @@
 <h6 align="center"> <i>Click on the images to reveal their configuration files </i></h6>
 <br>
 
-<h2 align="center">  MacOS</h2>
+<h2 align="center">  MacOS</h2><br>
 
 <h3 align="center"> 赤桜 Aka Zakura </h3>
 <p align="center">
