@@ -4,6 +4,7 @@
 </h1>
 <img width="60%" align="left" src="https://user-images.githubusercontent.com/61376940/173089063-0eceb5c3-a3b0-4e6f-9f99-5eab183467f5.png">
 <h2> Description & Details</h2>  
+<h6><i>Created on 10 June 2022</i></h6><br>
 <p> 
   <i>Persona</i>, or, in general <i>Shin Megami Tensei</I>, is one of my favourite video game series of all times! 
   <br><br>
