@@ -2,7 +2,7 @@
 <img width="60%" align="left" src="https://user-images.githubusercontent.com/61376940/168647485-0978d8d7-3205-4041-a22e-c2df232d57be.png">
 <h2> Description & Details</h2>  
 <p> 
-  <b>Candy</b> is a joyful and playful setup that uses bright colors to look lively.
+  <b>Candy</b> is a joyful and playful setup that relies on bright pastel colors to look lively and energetic.
   <br><br>
   Removing as many squared elements as possible, using TopNotch to round the Menu Bar's corners, everything looks more soft and enjoyable.
   <br><br>
