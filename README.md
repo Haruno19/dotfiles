@@ -7,6 +7,13 @@
 
 <h2 align="center">  MacOS</h2>
 
+<h3 align="center"> Aka Zakura </h3>
+<p align="center">
+  <a href="https://github.com/Haruno19/dotfiles/tree/main/MacOS/Aka%20Zakura">
+    <img width="70%" alt="akazakura" src="https://user-images.githubusercontent.com/61376940/175124365-ad9c0bca-87c4-479d-bdff-f2daddb4db2d.png">
+  </a>
+</p><br>
+
 <h3 align="center">
   <img style="display: block;" width="25px" src="https://user-images.githubusercontent.com/61376940/173090488-18b2eb8f-d312-4bb3-a375-550d929f28c6.png">
   &nbsp;Phantom Thieves of Hearts
