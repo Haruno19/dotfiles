@@ -1,5 +1,5 @@
 <h1 align="center"> 赤桜 Aka Zakura </h1>
-<img width="60%" align="left" src="https://user-images.githubusercontent.com/61376940/175124607-56f02caf-2608-45f5-8eb3-84ea5ff0ab35.png">
+<img width="60%" align="left" src="https://user-images.githubusercontent.com/61376940/175142674-f50ed000-7c1e-460b-b5d0-52d9096cf0eb.png">
 <h2> Description & Details</h2>  
 <p> 
   <b>Aka Zakura</b> is a setup intended for productivity, using only a terminal interface to get the work done.
