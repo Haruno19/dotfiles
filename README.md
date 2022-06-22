@@ -51,17 +51,17 @@
   </a>
 </p><br>
 
-<h3 align="center"> Kyoto Streets </h3>
-<p align="center">
-  <a href="https://github.com/Haruno19/dotfiles/tree/main/MacOS/Kyoto%20Streets">
-    <img width="70%" alt="kyoto" src="https://user-images.githubusercontent.com/61376940/165559855-2f126f9f-5b66-4fde-a228-0812ecc08b97.png">
-  </a>
-</p><br>
-
 <h3 align="center"> Candy </h3>
 <p align="center">
   <a href="https://github.com/Haruno19/dotfiles/tree/main/MacOS/Candy">
     <img width="70%" alt="candy" src="https://user-images.githubusercontent.com/61376940/168551409-4d417921-5293-447e-ac7e-163afab33fee.png">
+  </a>
+</p><br>
+
+<h3 align="center"> Kyoto Streets </h3>
+<p align="center">
+  <a href="https://github.com/Haruno19/dotfiles/tree/main/MacOS/Kyoto%20Streets">
+    <img width="70%" alt="kyoto" src="https://user-images.githubusercontent.com/61376940/165559855-2f126f9f-5b66-4fde-a228-0812ecc08b97.png">
   </a>
 </p><br>
 
