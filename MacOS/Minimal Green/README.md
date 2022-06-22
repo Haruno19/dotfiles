@@ -9,6 +9,7 @@
   Visual Studio Code too has been revised to achieve a more simple and plain layout.
   <br><br>
   Huge thanks to Reddit user <a href="https://www.reddit.com/user/I_DONT_LIE_MUCH"> u/I_DONT_LIE_MUCH</a> for the inspiration and help with the VS Code's configuration!
+  <br><br>
  
   <table><tr><td>
         <a href="https://github.com/Haruno19/dotfiles/blob/main/Wallpapers/IMG_1244_2.png"> <b>Wallpaper</b> </a>
