@@ -2,9 +2,9 @@
 <img width="60%" align="left" src="https://user-images.githubusercontent.com/61376940/172181720-361630a6-3d76-426f-b237-33060283d6b8.png">
 <h2> Description & Details</h2>  
 <p> 
-  <b>Sunset</b> is a simple and lost in thought setup to recall the soft and charming summer mood.
+  <b>Sunset</b> is a simple and lost-in-thoughts setup to recall the soft and charming summer mood.
   <br><br>
-  The color scheme comes directly off the wallpaper in order to maintain a certain overall color-consisntency. 
+  The color scheme comes directly off the wallpaper in order to maintain a certain overall color consisntency. 
   <br><br>
   There are two variants of the wallpaper, the first one has a June calenadr on it, and the other one is just the plain image without any addition.
   <br><br>
