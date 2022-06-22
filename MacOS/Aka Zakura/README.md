@@ -2,7 +2,7 @@
 <img width="60%" align="left" src="https://user-images.githubusercontent.com/61376940/175124607-56f02caf-2608-45f5-8eb3-84ea5ff0ab35.png">
 <h2> Description & Details</h2>  
 <p> 
-  <b>Aka Zakura</b> is a setup intended for boosting productivity, using only a terminal emulator interface to get the work done.
+  <b>Aka Zakura</b> is a setup intended for productivity, using only a terminal interface to get the work done.
   <br><br>
   The Cherry color scheme adapts well to this config, it's mostly focused on the color red, which makes a great accent color, with shades taken directly from the wallpaper. 
   <br><br>
