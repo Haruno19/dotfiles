@@ -4,13 +4,12 @@
 <h6 align="center"> <i>Click on the images to reveal their configuration files </i></h6>
 <br>
 
-
 <h2 align="center">  MacOS</h2>
 
 <h3 align="center"> 赤桜 Aka Zakura </h3>
 <p align="center">
   <a href="https://github.com/Haruno19/dotfiles/tree/main/MacOS/Aka%20Zakura">
-    <img width="70%" alt="akazakura" src="https://user-images.githubusercontent.com/61376940/175126624-26fadceb-97ff-44ad-accc-679abf32b43a.png">
+    <img width="70%" alt="akazakura" src="https://user-images.githubusercontent.com/61376940/175141198-63480ac9-6c30-41e4-8fb3-7d46913f45ea.png">
   </a>
 </p><br>
 
