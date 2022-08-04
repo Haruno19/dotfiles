@@ -73,7 +73,18 @@
 </p><br><br>
 
 
+<h2 align="center"> ❐ Linux</h2><br>
+
+<h3 align="center"> Serial Experiments Lain </h3>
+<p align="center">
+  <a href="https://github.com/Haruno19/dotfiles/tree/main/Linux/Lain">
+    <img width="70%" alt="lain" src="https://user-images.githubusercontent.com/61376940/182816404-28e5beef-42ad-4b22-a537-11d93eb2e52d.png">
+  </a>
+</p><br>
+
+
 <h2 align="center"> ❖ Windows 10 </h2>
+
 <p align="center">
   <img src="https://i.imgur.com/N9Ey4Os.jpg" width="32%" />
   &nbsp;
