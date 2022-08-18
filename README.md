@@ -13,7 +13,7 @@
 <h2 align="center">My Current Setup</h2>
 
 <h3 align="left">MacBook Pro 14"</h3>
-  <img width="65%" align="right" src="https://user-images.githubusercontent.com/61376940/185403080-09e7e6e3-ea3d-4e96-9fec-c311af777502.png">
+  <img width="65%" align="right" src="https://user-images.githubusercontent.com/61376940/185495843-2329bdea-9940-4bdc-b6c6-e400bdba08bb.png">
   <p align="left">
     My current daily-driver is a <b>14inch M1 Pro MacBook Pro</b>.
     <br><br>
