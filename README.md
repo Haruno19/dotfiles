@@ -5,7 +5,7 @@
       <td> <a href="https://github.com/Haruno19/dotfiles/blob/main/GALLERY.md"> <b> 〈 dotfiles gallery 〉 </b> </a> </td>
   </tr> </table>
   <h6 align="center"> 
-    <i>Have a look at my current setup and visit my dotfiles gallery</i><br><br>
+    <i>Have a look at my current setup or visit my dotfiles gallery</i><br><br>
     <i>Thank you for visiting this repository!</i> :)
   </h6><br>
   
