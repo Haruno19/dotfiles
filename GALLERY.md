@@ -1,18 +1,18 @@
-<h1 align="center"> .dotfiles </h1>
+<h1 align="center"> .dotfiles gallery </h1>
 
 <br>
-<p align="center"> Enjoy your visit through my setups</p>
+<p align="center"> Enjoy your visit through my gallery</p>
 <h6 align="center"> <i>Click on the images to reveal the configuration files </i></h6>
 <br>
   <table align="center"><tr>
     <td>
-        <a href="https://github.com/Haruno19/dotfiles#--macos"> <b>MacOS</b> </a>
+        <a href="https://github.com/Haruno19/dotfiles/blob/main/GALLERY.md#--macos"> <b>MacOS</b> </a>
     </td>
     <td>
-        <a href="https://github.com/Haruno19/dotfiles#--linux"> <b>Linux</b> </a>
+        <a href="https://github.com/Haruno19/dotfiles/blob/main/GALLERY.md#--linux"> <b>Linux</b> </a>
     </td>
     <td>
-        <a href="https://github.com/Haruno19/dotfiles#--windows-10-"> <b>Windows</b> </a>
+        <a href="https://github.com/Haruno19/dotfiles/blob/main/GALLERY.md#--windows-10-"> <b>Windows</b> </a>
     </td>
   </tr></table>
 <br>
