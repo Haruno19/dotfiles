@@ -14,6 +14,12 @@
     <td>
         <a href="https://github.com/Haruno19/dotfiles/blob/main/GALLERY.md#--windows-10-"> <b>Windows</b> </a>
     </td>
+  </tr>
+  <tr></table>
+  <table align="center"><tr>
+    <td>
+        <a href="https://github.com/Haruno19/dotfiles/blob/main/README.md"> <b>My Current Setup</b> </a>
+    </td>
   </tr></table>
 <br>
 
