@@ -17,38 +17,28 @@
   <p align="left">
     My current daily-driver is a <b>14inch M1 Pro MacBook Pro</b>.
     <br><br>
-    To keep its look in line with the <b>minimalistic</b> style I like, I'm using a <b>black and white</b> color palette,
-    which also grants an overall elegant look to the system, perfect formal enviroments like university.
+    Moving forward from the very <b>minimalistic</b> style of my previous setup, I'm maintaininf the <b>black and white</b> color palette but his time with a new, more lively wallpaper background. I still believe this color choide grants an overall elegant look to the system, which is perfect formal enviroments like university.
     <br><br>
-    <b>Productivity</b> is also a key aspect of this setup, and I think it blends well with the concept of minimalism.
-    Automatic hiding for the <b>Dock</b> is perfect for focusing; it reduces the number of elements on screen and gives more screen space to apps and programs.
+    Hight <b>productivity</b> is still a key aspect of my workflow. The way I use my Mac hasn't changed much since last time, I keep Automatic hiding for the <b>Dock</b> on, which is perfect for focusing since it reduces the number of elements on screen and gives more screen space to the apps.
     <br><br>
-    In addition to <b>MacOS</b>'s very efficient workflow, I use <b>Rectangle</b> to arrange the windows with shortcuts and snap areas.
+    <b>Rectangle</b> is still my go-to window manager software.<br>
+    I now use <b>Warp</b> Terminal instead of iTerm2, which has helped me improve my efficency while using command line tools.
   </p>
 <hr><br>
 
 <img width="30%" align="left" src="https://user-images.githubusercontent.com/61376940/185403123-fc7253b2-f0f3-4d1b-a426-62df144d0d82.png">
-<h3 align="left">Xiaomi Mi 9</h3>
+<h3 align="left">Nothing Phone (1)</h3>
   <p align="left">
-    My daily-driver smartphone is currently a <b>Xiaomi Mi 9</b>.
+    My daily-driver smartphone is currently a <b>Nothing Phone (1)</b>.
     <br>
-    I've always been an iPhone user, but the last time I had to upgrade my phone, I wanted to try a different experience and ended up buying 
-    my first <b>Android</b> smartphone, form Xiaomi.
+    Coming from my first Android experience with Xiaomi, for my new every-day pal I choosed something much more minimal by design.<br>
+    My old Mi 9 was filled with bloatwere and proprietary-oriented choices I ultimately ended up not liking at all. 
     <br><br>
-    After some years using it, I can confidently say my next phone will be an iPhone again, but for now I want
-    to <b>get the most out</b> of my current device. <b>MIUI</b> isn't the best Android ROM out there in terms of customization, but I think I still
-    managed to make a setup I feel <b>comfortable</b> using.
+    <b>NothingOS</b> is almost a stock-Android experience, without any kind of bloat whatsoever. Just simple Android spiced up with a few of very cool (and minimal) design choices. <br> Maitaining one again the black&white color palette, I'm now using the <b>Dove</b> Icon Pack to achieve a more consistent and modern look.
     <br><br>
-    <b>Consistency</b> is the key to achieve a good-looking system, so I'm using the same wallpaper as my MacBook and a similar color scheme.
+    Lately I've been using Digital Wellbeing apps timer and focus mode to help me reduce the useless time I waste on my phone, and that is part of the reason I felt like needing a change of scenery. 
     <br><br>
-    I don't like having <b>icons</b> on my homescreen, so I just keep the apps I use the most in the <i>Favourites</i> (at the bottom of the screen)
-    and use the remaining screen space for <b>widgets</b>.
-    <br>
-    <br>&emsp;• "<b>Another Widget</b>" is my favourite date and meteo widget, <b>Alata</b> font looks compact and clear,
-    and the overall look feels really polished. 
-    <br>&emsp;• "<b>To-Do List</b>" is a great app to track habits and events, its widget has a clean and simple look too.
-    <br>&emsp;• "<b>Digital Wellbeing</b>" helps me keep track of my daily smartphone usage.
-    <br>&emsp;• "<b>Google Drive</b>" is essential to share files and media between devices on different systems.
+    I keep my home screen and app choice very simple and almost stock in order for my workflow to be as simple and fast as possible.
  </p><br>
 <hr>
   <p align="center">
@@ -60,13 +50,12 @@
     I hope this page and my repository were somewhat interesting and inspiring for you, thank you for visiting! 
   </p><br>
   <table align="center"> <tr>
-      <td> <a href="https://github.com/Haruno19/dotfiles/blob/main/Wallpapers/446984.jpg"> Wallpaper </a> </td>
+      <td> <a href="https://github.com/Haruno19/dotfiles/blob/main/Wallpapers/IMG_1142.png"> Wallpaper </a> </td>
       <td> <a href="https://rectangleapp.com"> Rectangle </a> </td>
       <td> <a href="https://topnotch.app"> TopNotch </a> </td>
-      <td> <a href="https://iterm2.com"> iTerm2 </a> </td>
-      <td> <a href="https://play.google.com/store/apps/details?id=com.tommasoberlose.anotherwidget&hl=en&gl=US"> Another Widget </a> </td>
-      <td> <a href="https://play.google.com/store/apps/details?id=todolist.scheduleplanner.dailyplanner.todo.reminders&hl=en&gl=US"> To-Do List </a> </td>
-      <td> <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing&hl=en&gl=US"> Digital Wellbeing </a> </td>
+      <td> <a href="https://www.warp.dev"> Warp </a> </td>
+      <td> <a href="https://apps.apple.com/us/app/solstice/id1547580907"> Solstice </a> </td>
+      <td> <a href="https://it.nothing.tech"> Nothing OS </a> </td>
   </tr> </table>
   <h6 align="center">
     <i>Use the links above to reach all the available apps and resources used in this setup.</i>
