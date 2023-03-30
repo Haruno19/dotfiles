@@ -54,6 +54,7 @@
       <td> <a href="https://topnotch.app"> TopNotch </a> </td>
       <td> <a href="https://www.warp.dev"> Warp </a> </td>
       <td> <a href="https://apps.apple.com/us/app/solstice/id1547580907"> Solstice </a> </td>
+      <td> <a href="https://play.google.com/store/apps/details?id=com.jndapp.dove.iconpack&hl=en&gl=US"> Dove Icon Pack </a> </td>
       <td> <a href="https://it.nothing.tech"> Nothing OS </a> </td>
   </tr> </table>
   <h6 align="center">
