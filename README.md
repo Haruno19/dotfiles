@@ -9,11 +9,10 @@
     <i>Thank you for visiting this repository!</i> :)
   </h6><br>
   
-  
 <h2 align="center">My Current Setup</h2>
 
 <h3 align="left">MacBook Pro 14"</h3>
-  <img width="65%" align="right" src="https://user-images.githubusercontent.com/61376940/185495843-2329bdea-9940-4bdc-b6c6-e400bdba08bb.png">
+  <img width="65%" align="right" src="https://user-images.githubusercontent.com/61376940/228948737-ed1aaf3c-e1a5-4d0c-9f0a-c50d13579b7c.png">
   <p align="left">
     My current daily-driver is a <b>14inch M1 Pro MacBook Pro</b>.
     <br><br>
@@ -26,7 +25,7 @@
   </p>
 <hr><br>
 
-<img width="30%" align="left" src="https://user-images.githubusercontent.com/61376940/185403123-fc7253b2-f0f3-4d1b-a426-62df144d0d82.png">
+<img width="30%" align="left" src="https://user-images.githubusercontent.com/61376940/228948768-8e58dde9-6029-4fe4-9500-edb489e91661.png">
 <h3 align="left">Nothing Phone (1)</h3>
   <p align="left">
     My daily-driver smartphone is currently a <b>Nothing Phone (1)</b>.
