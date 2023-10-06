@@ -16,12 +16,11 @@
   <p align="left">
     My current daily-driver is a <b>14inch M1 Pro MacBook Pro</b>.
     <br><br>
-    Moving forward from the very <b>minimalistic</b> style of my previous setup, I'm maintaininf the <b>black and white</b> color palette but his time with a new, more lively wallpaper background. I still believe this color choide grants an overall elegant look to the system, which is perfect formal enviroments like university.
+    Moving forward from the very <b>minimalistic</b> style of my previous setup, I'm maintaining the <b>black and white</b> color palette but his time with a new, more lively wallpaper background. I still believe this color choise grants an overall elegant look to the system, which is perfect for more formal enviroments like university.
     <br><br>
-    Hight <b>productivity</b> is still a key aspect of my workflow. The way I use my Mac hasn't changed much since last time, I keep Automatic hiding for the <b>Dock</b> on, which is perfect for focusing since it reduces the number of elements on screen and gives more screen space to the apps.
+    <b>pProductivity</b> is still a key aspect of my workflow. The way I use my Mac hasn't changed much since last time, I keep Automatic hiding for the <b>Dock</b> on, which is perfect for focusing since it reduces the number of elements on screen and gives more screen space to the running apps.
     <br><br>
-    <b>Rectangle</b> is still my go-to window manager software.<br>
-    I now use <b>Warp</b> Terminal instead of iTerm2, which has helped me improve my efficency while using command line tools.
+    <b>Rectangle</b> is still my go-to window manager software.
   </p>
 <hr><br>
 
