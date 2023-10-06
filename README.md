@@ -16,11 +16,11 @@
     </td>
   </tr>
   <tr></table>
-  <table align="center"><tr>
+  <!--<table align="center"><tr>
     <td>
         <a href="https://github.com/Haruno19/dotfiles/blob/main/README.md"> <b>My Current Setup</b> </a>
     </td>
-  </tr></table>
+  </tr></table>-->
 <br>
 
 <h2 align="center">  MacOS</h2><br>
