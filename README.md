@@ -6,13 +6,13 @@
 <br>
   <table align="center"><tr>
     <td>
-        <a href="https://github.com/Haruno19/dotfiles/blob/main/GALLERY.md#--macos"> <b>MacOS</b> </a>
+        <a href="https://github.com/Haruno19/dotfiles/tree/main#--macos"> <b>MacOS</b> </a>
     </td>
     <td>
-        <a href="https://github.com/Haruno19/dotfiles/blob/main/GALLERY.md#--linux"> <b>Linux</b> </a>
+        <a href="https://github.com/Haruno19/dotfiles/tree/main#--linux"> <b>Linux</b> </a>
     </td>
     <td>
-        <a href="https://github.com/Haruno19/dotfiles/blob/main/GALLERY.md#--windows-10-"> <b>Windows</b> </a>
+        <a href="https://github.com/Haruno19/dotfiles/tree/main#--windows-10-"> <b>Windows</b> </a>
     </td>
   </tr>
   <tr></table>
