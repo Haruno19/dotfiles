@@ -1,0 +1,116 @@
+BG=0x00000000
+
+FONT="JetBrainsMonoNL Nerd Font"
+FONT_SIZE=14
+FONT_COLOR=0xFFFEFEFE
+ICON_FONT_SIZE=16
+
+ITEM_PADDING=12
+ITEM_COLOR=0xFF000000
+GAP=6
+
+PLUGIN_DIR="$HOME/.config/sketchybar/plugins"
+
+sketchybar --bar \
+  margin=0 y_offset=0 height=38 \
+  corner_radius=0 blur_radius=10 \
+  border_width=0 \
+  padding_left=17 padding_right=17 \
+  color=$BG
+
+sketchybar --default \
+  label.font="$FONT:Regular:$FONT_SIZE" label.color=$FONT_COLOR \
+  label.padding_left=$ITEM_PADDING label.padding_right=$ITEM_PADDING \
+  icon.font="$FONT:Regular:$ICON_FONT_SIZE"\
+  icon.padding_left=$ITEM_PADDING \
+  background.color=$ITEM_COLOR \
+  background.padding_right=$GAP background.height=25 \
+  background.corner_radius=6
+
+sketchybar --add item os left \
+  --set os \
+  icon= icon.color=0xfffefefe \
+  icon.font.size=20 icon.y_offset=1 \
+  icon.padding_left=7 icon.padding_right=0 \
+  label.padding_left=0 label.padding_right=6 \
+  click_script="sketchybar -m --set \$NAME popup.drawing=toggle" \
+  popup.background.corner_radius=3 popup.background.border_color=$ITEM_COLOR
+
+sketchybar --add item os.preferences popup.os \
+  --set os.preferences icon= \
+  label="Preferences" \
+  click_script="open -a 'System Preferences'; sketchybar -m --set os popup.drawing=toggle"
+
+sketchybar --add item os.appstore popup.os \
+  --set os.appstore icon= \
+  label="App Store" \
+  click_script="open -a 'App Store'; sketchybar -m --set os popup.drawing=toggle"
+
+sketchybar --add item os.github popup.os \
+  --set os.github icon=\
+  label="GitHub" \
+  click_script="open -a 'Github Desktop'; sketchybar -m --set os popup.drawing=toggle"
+
+
+sketchybar --add item host left \
+  --set host \
+  label="$(sed 's/.local//' <<< $(hostname))" label.font.style="Bold" \
+  icon=󰌢 icon.color=0xFFFEFEFE
+
+sketchybar --add item user left \
+  --set user \
+  label="$(whoami)" label.font.style="Bold" \
+  icon=󰀄 icon.color=0xFFFEFEFE
+
+sketchybar --add item front-app left \
+  --set front-app \
+  script="$PLUGIN_DIR/front-app.sh" \
+  label.font.style="Bold" \
+  icon.padding_left=18 label.padding_right=20 \
+  --subscribe front-app front_app_switched
+
+
+
+sketchybar --add item clock right \
+  --set clock \
+  script="$PLUGIN_DIR/clock.sh" \
+  icon.font="$FONT:Regular:14" \
+  background.padding_right=0 \
+  click_script="sketchybar -m --set \$NAME popup.drawing=toggle" \
+  popup.background.corner_radius=3 popup.background.border_color=$ITEM_COLOR \
+  popup.align="right" \
+  update_freq=10
+
+sketchybar --add item clock.date popup.clock \
+  --set clock.date \
+  label="$(date '+%a %b %d %Y')" \
+  background.padding_right=-1 \
+  label.padding_right=23 \
+  click_script="sketchybar -m --set clock popup.drawing=toggle"
+
+sketchybar --add item battery right \
+  --set battery \
+  script="$PLUGIN_DIR/battery.sh" \
+  update_freq=60
+
+sketchybar --add item wifi right \
+   --set wifi \
+   script="$PLUGIN_DIR/wifi.sh" \
+   --subscribe wifi wifi_change \
+   --subscribe wifi mouse.clicked
+
+sketchybar --add item weather right \
+  --set weather \
+  icon=󰅟 \
+  script="$PLUGIN_DIR/weather.sh" \
+  update_freq=3600 \
+  --subscribe weather mouse.clicked
+
+#sketchybar --add item moon right \
+#  --set moon \
+#  icon= \
+#  script="$PLUGIN_DIR/moon.sh" \
+#  update_freq=3600 \
+#  --subscribe moon mouse.clicked
+
+sketchybar --update
