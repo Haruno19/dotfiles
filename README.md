@@ -28,7 +28,7 @@
 <h3 align="center"> Raindrop </h3>
 <p align="center">
   <a href="https://github.com/Haruno19/dotfiles/tree/main/MacOS/Raindrop">
-    <img width="70%" alt="raindrop" src="https://github.com/Haruno19/dotfiles/assets/61376940/afb332da-d28a-4372-99cf-328eb29ba584.png">
+    <img width="70%" alt="raindrop" src=".pnghttps://github-production-user-asset-6210df.s3.amazonaws.com/61376940/277347016-afb332da-d28a-4372-99cf-328eb29ba584.png">
   </a>
 </p><br>
 
