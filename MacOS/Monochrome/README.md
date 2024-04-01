@@ -1,6 +1,7 @@
 <h1 align="center"> Monochrome </h1>
-<img width="60%" align="left" src="https://user-images.githubusercontent.com/61376940/168601769-3192ef97-8ab3-4195-9ba4-023af67bb635.png">
 <h2> Description & Details</h2>  
+<img width="60%" align="left" src="https://user-images.githubusercontent.com/61376940/168601769-3192ef97-8ab3-4195-9ba4-023af67bb635.png">
+
 <h6><i>Created on 15 May 2022</i></h6><br>
 <p> 
   <b>Monochorme</b> is an attempt to create a minimalistic but rather eye-catching setup. 
