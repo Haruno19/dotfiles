@@ -1,6 +1,7 @@
 <h1 align="center"> Sunset </h1>
-<img width="60%" align="left" src="https://user-images.githubusercontent.com/61376940/172181720-361630a6-3d76-426f-b237-33060283d6b8.png">
 <h2> Description & Details</h2>  
+<img width="60%" align="left" src="https://user-images.githubusercontent.com/61376940/172181720-361630a6-3d76-426f-b237-33060283d6b8.png">
+
 <h6><i>Created on 06 June 2022</i></h6><br>
 <p> 
   <b>Sunset</b> is a simple and lost-in-thoughts setup to recall the soft and charming summer mood.
