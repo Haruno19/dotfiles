@@ -1,6 +1,7 @@
 <h1 align="center"> Minimal Green </h1>
-<img width="60%" align="left" src="https://user-images.githubusercontent.com/61376940/168605102-d9bcde75-f231-4f9f-9a66-3341afb6c54e.png">
 <h2> Description & Details</h2>  
+<img width="60%" align="left" src="https://user-images.githubusercontent.com/61376940/168605102-d9bcde75-f231-4f9f-9a66-3341afb6c54e.png">
+
 <h6><i>Created on 02 May 2022</i></h6><br>
 <p> 
   <b>Minimal Green</b> is, as suggested by its name, a setup made with minimalism in mind.
