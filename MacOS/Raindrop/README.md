@@ -1,6 +1,7 @@
 <h1 align="center"> Raindrop </h1>
-<img width="60%" align="left" src="https://github.com/Haruno19/dotfiles/assets/61376940/e696befb-0075-4393-8805-453a28fa9a79">
 <h2> Description & Details</h2>  
+<img width="60%" align="left" src="https://github.com/Haruno19/dotfiles/assets/61376940/e696befb-0075-4393-8805-453a28fa9a79">
+
 <h6><i>Created on 23 October 2023</i></h6><br>
 <p> 
   <b>Raindrop</b> is my first setup to use SketchyBar instead of the default MacOS Menu Bar.
