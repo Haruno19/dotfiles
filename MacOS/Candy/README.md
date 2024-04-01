@@ -1,6 +1,7 @@
 <h1 align="center"> Candy </h1>
-<img width="60%" align="left" src="https://user-images.githubusercontent.com/61376940/168647485-0978d8d7-3205-4041-a22e-c2df232d57be.png">
 <h2> Description & Details</h2>  
+<img width="60%" align="left" src="https://user-images.githubusercontent.com/61376940/168647485-0978d8d7-3205-4041-a22e-c2df232d57be.png">
+
 <h6><i>Created on 22 April 2022</i></h6><br>
 <p> 
   <b>Candy</b> is a joyful and playful setup that relies on bright pastel colors to look lively and energetic.
