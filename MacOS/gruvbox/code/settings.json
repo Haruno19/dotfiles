@@ -1,0 +1,42 @@
+{
+  "window.restoreWindows": "preserve",
+  "files.hotExit": "onExit",
+  "workbench.startupEditor": "none",
+  "extensions.ignoreRecommendations": true,
+  "files.associations": {
+      "*.pl": "prolog"
+  },
+  "window.titleBarStyle" : "custom",
+  "editor.suggestSelection": "first",
+  "files.exclude": {
+      "**/.classpath": true,
+      "**/.project": true,
+      "**/.settings": true,
+      "**/.factorypath": true,
+      "**/.vscode": true,
+      "**/*.meta": true,
+      "**/Icon*": true
+  },
+  "editor.fontSize": 13,
+  "editor.fontFamily": "Menlo, JetBrainsMonoNL Nerd Font",
+  "workbench.colorTheme": "Gruvbox Material Dark",
+  "workbench.productIconTheme": "icons-carbon",
+  "workbench.list.smoothScrolling": true,
+  "editor.smoothScrolling": true,
+  "editor.minimap.enabled": false,
+  "workbench.iconTheme": "icons",
+  "git.confirmSync": false,
+  "editor.accessibilitySupport": "off",
+  "workbench.editor.editorActionsLocation": "hidden",
+  "workbench.activityBar.location": "top",
+  "[latex]": {
+    "editor.insertSpaces": false,
+    "editor.wordWrap": "on"
+  },
+  "telemetry.telemetryLevel": "off",
+  "workbench.statusBar.visible": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "gruvboxMaterial.darkContrast": "hard",
+  "gruvboxMaterial.darkSelection": "orange",
+  "gruvboxMaterial.darkWorkbench": "flat"
+}
