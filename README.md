@@ -24,6 +24,13 @@
 
 <h2 align="center">  MacOS</h2><br>
 
+<h3 align="center"> gruvbox </h3>
+<p align="center">
+  <a href="https://github.com/Haruno19/dotfiles/tree/main/MacOS/gruvbox">
+    <img width="70%" alt="raindrop" src="https://github.com/Haruno19/dotfiles/assets/61376940/4e22926d-ec42-4429-aee9-e6699d35816e">
+  </a>
+</p><br>
+
 <h3 align="center"> Raindrop </h3>
 <p align="center">
   <a href="https://github.com/Haruno19/dotfiles/tree/main/MacOS/Raindrop">
