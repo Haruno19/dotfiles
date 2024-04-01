@@ -1,6 +1,7 @@
 <h1 align="center"> Mt. Fuji </h1>
-<img width="60%" align="left" src="https://user-images.githubusercontent.com/61376940/168648166-7998fd77-e353-410d-8821-5d1c3db512fa.png">
 <h2> Description & Details</h2>  
+<img width="60%" align="left" src="https://user-images.githubusercontent.com/61376940/168648166-7998fd77-e353-410d-8821-5d1c3db512fa.png">
+
 <h6><i>Created on 29 March 2022</i></h6><br>
 <p> 
   <b>Mt. Fuji</b> is my very first MacOS setup.
