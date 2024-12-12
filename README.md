@@ -26,7 +26,7 @@
 <h3 align="center"> 傘 kasa </h3>
 <p align="center">
   <a href="https://github.com/Haruno19/dotfiles/tree/main/MacOS/kasa">
-    <img width="70%" alt="kasa" src="https://github.com/user-attachments/assets/68ef4c7c-db5c-426c-b85e-2a31c037c499" />
+    <img width="70%" alt="kasa" src="https://github.com/user-attachments/assets/62779605-30ef-4efc-9201-9e4e3fafb2b1" />
   </a>
 </p><br>
 
