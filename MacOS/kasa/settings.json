@@ -1,0 +1,98 @@
+{
+  "window.restoreWindows": "preserve",
+  "files.hotExit": "onExit",
+  "workbench.startupEditor": "none",
+  "extensions.ignoreRecommendations": true,
+  "files.associations": {
+      "*.pl": "prolog"
+  },
+  "window.titleBarStyle" : "custom",
+  "editor.suggestSelection": "first",
+  "files.exclude": {
+      "**/.classpath": true,
+      "**/.project": true,
+      "**/.settings": true,
+      "**/.factorypath": true,
+      "**/.vscode": true,
+      "**/*.meta": true,
+      "**/Icon*": true
+  },
+  "editor.fontSize": 13,
+  "editor.fontFamily": "Menlo, JetBrainsMonoNL Nerd Font",
+  "workbench.productIconTheme": "icons-carbon",
+  
+  /*
+  // DARK THEME 
+  "workbench.colorTheme": "Material Theme Darker High Contrast",
+  */
+
+  // LIGHT THEME
+  "workbench.colorTheme": "Everforest Light",
+
+  "workbench.colorCustomizations": {
+    "[Material Theme Darker High Contrast]": {
+      "input.background": "#191919", 
+      "list.activeSelectionBackground": "#191919",
+      "list.hoverBackground": "#191919",
+      "editorWidget.background": "#191919",
+      "panel.background": "#191919",
+      "titleBar.activeBackground": "#131313",
+      "titleBar.inactiveBackground": "#131313",
+      "breadcrumbPicker.background": "#191919",
+      "settings.dropdownBackground": "#191919",
+      "settings.numberInputBackground": "#191919",
+      "settings.textInputBackground": "#191919",
+      "settings.checkboxBackground": "#191919",
+      "editor.background": "#0f0f0f",
+      "tab.activeBackground": "#131313",
+      "tab.inactiveBackground": "#0f0f0f",  //0f0f0f
+      "sideBar.background": "#131313",
+      "sideBarSectionHeader.background": "#131313", //1a1a1a
+      "activityBar.background": "#131313",
+      "statusBar.background": "#131313",
+      "scrollbarSlider.activeBackground": "#131313",
+      "tab.activeBorder": "#0f0f0f00",
+      "editorGroupHeader.tabsBackground": "#0f0f0f",
+      "statusBar.noFolderBackground": "#0f0f0f",
+      "tab.border": "#0f0f0f",
+      "editorHoverWidget.background": "#0f0f0f",
+      "menu.background": "#0f0f0f",
+      "debugToolBar.background": "#0f0f0f",
+      "editorBracketMatch.background": "#0f0f0f",
+      "quickInput.background": "#0f0f0f",
+      "editorOverviewRuler.border": "#0f0f0f",
+      "notifications.background": "#0f0f0f",
+      "breadcrumb.background": "#0f0f0f"
+    },
+    "[Everforest Light]": {
+      "editor.background": "#FFFAEE",
+      "sideBar.background": "#FFFAEE",
+      "menu.background": "#FFFAEE",
+      "tab.inactiveBackground": "#FFFAEE",
+      "titleBar.activeBackground": "#FFFAEE",
+      "titleBar.inactiveBackground":  "#FFFAEE",
+      "panel.background" : "#FFFAEE",
+      "banner.background" : "#FFFAEE",
+      "editorGroupHeader.tabsBackground": "#FFFAEE",
+    } 
+  },
+
+  "workbench.list.smoothScrolling": true,
+  "editor.smoothScrolling": true,
+  "editor.minimap.enabled": false,
+  "workbench.iconTheme": "icons",
+  "git.confirmSync": false,
+  "editor.accessibilitySupport": "off",
+  "workbench.editor.editorActionsLocation": "hidden",
+  "telemetry.telemetryLevel": "off",
+  "security.workspace.trust.untrustedFiles": "open",
+  "gruvboxMaterial.darkContrast": "hard",
+  "gruvboxMaterial.darkSelection": "orange",
+  "gruvboxMaterial.darkWorkbench": "flat",
+  "window.customTitleBarVisibility": "windowed",
+  "latexPreview.debugMode": true,
+  "workbench.preferredHighContrastColorTheme": "Material Theme Darker High Contrast",
+  "workbench.statusBar.visible": false,
+  "workbench.layoutControl.enabled": false,
+  "workbench.activityBar.location": "bottom"
+}
