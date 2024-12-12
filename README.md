@@ -23,10 +23,17 @@
 <br>
 <h2 align="center">  MacOS</h2><br>
 
+<h3 align="center"> 傘 kasa </h3>
+<p align="center">
+  <a href="https://github.com/Haruno19/dotfiles/tree/main/MacOS/kasa">
+    <img width="70%" alt="kasa" src="https://github.com/user-attachments/assets/68ef4c7c-db5c-426c-b85e-2a31c037c499" />
+  </a>
+</p><br>
+
 <h3 align="center"> gruvbox </h3>
 <p align="center">
   <a href="https://github.com/Haruno19/dotfiles/tree/main/MacOS/gruvbox">
-    <img width="70%" alt="raindrop" src="https://github.com/Haruno19/dotfiles/assets/61376940/b7ecc80d-ea8a-409e-94c8-e6fff5eadc20">
+    <img width="70%" alt="gruvbox" src="https://github.com/Haruno19/dotfiles/assets/61376940/b7ecc80d-ea8a-409e-94c8-e6fff5eadc20">
   </a>
 </p><br>
 
