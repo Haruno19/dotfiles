@@ -7,6 +7,8 @@
   Spring's about to end. Memories of a journey...
   <br><br>
   Warm & cozy theme, easier on the eyes for the hardworking souls out there~
+  <br>
+  Works wonders with <a href="https://preview.redd.it/aqua-everforest-is-my-new-best-friend-v0-y9iaz93b3a4f1.png?width=1080&crop=smart&auto=webp&s=5339e0744baf76bbc2d1192f38a79d262554e640">light themes</a> too.
   <br><br>
   The wallpaper is a picture I personally took last month at Akasaka Hikawa Jinja 赤坂氷川神社 in Tokyo, treat it with care.
   <br>
