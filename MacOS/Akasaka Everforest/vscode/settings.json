@@ -33,11 +33,6 @@
 
   "workbench.colorCustomizations": {
     "[*Dark*]": {
-      /*
-        ACCENTS
-        purple: "6b3e81", "C792E9"
-        red: "A13D2D", "BF6A5D"
-      */
       "input.background": "#191919",
       "list.activeSelectionBackground": "#191919",
       "list.hoverBackground": "#191919",
