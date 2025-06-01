@@ -1,0 +1,36 @@
+
+palette = 0=#5D5C69
+palette = 1=#BB7C7F
+palette = 2=#95A47E
+palette = 3=#D8CDAE
+palette = 4=#7592B5
+palette = 5=#4C4D74
+palette = 6=#997039
+palette = 7=#E8E7E9
+palette = 8=#616172
+palette = 9=#DD9C9D
+palette = 10=#E4DCC6
+palette = 11=#E4DCC6
+palette = 12=#9DB2CA
+palette = 13=#82829E
+palette = 14=#C0A57C
+palette = 15=#E8E7E9
+background = #0E0E0E
+foreground = #A2A2A9
+cursor-color = #979D92
+selection-background = #5D5C69
+selection-foreground = #DFE4ED
+
+bold-is-bright = true
+
+window-height = 18
+window-width = 76
+
+title = " "
+macos-titlebar-proxy-icon = hidden
+
+keybind = ctrl+alt+enter=ignore
+
+background-blur = true
+background-opacity = 0.75
+background-blur-radius = 40

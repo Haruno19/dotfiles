@@ -1,0 +1,31 @@
+# Layout - layouts follow a pattern like this:
+# [[row]] represents a row in the application.
+# [[row.child]] represents either a widget or a column.
+# [[row.child.child]] represents a widget.
+#
+# All widgets must have the type value set to one of ["cpu", "mem", "proc", "net", "temp", "disk", "empty"].
+# All layout components have a ratio value - if this is not set, then it defaults to 1.
+
+[[row]]
+  ratio=30
+  [[row.child]]
+    type="cpu"
+  [[row.child]]
+    type="proc"
+[[row]]
+    ratio=30
+    [[row.child]]
+      type="mem"
+    [[row.child]]
+      type="disk"
+    
+[[row]]
+  ratio=30
+  [[row.child]]
+    type="net"
+  [[row.child]]
+      [[row.child.child]]
+        type="temp"
+      [[row.child.child]]
+        type="battery"
+  
