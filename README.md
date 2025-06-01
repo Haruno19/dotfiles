@@ -1,5 +1,4 @@
 <h1 align="center"> .dotfiles gallery </h1>
-
 <br>
   <table align="center"><tr>
     <td>
@@ -22,6 +21,13 @@
   </tr></table>-->
 <br>
 <h2 align="center">  MacOS</h2><br>
+
+<h3 align="center"> 赤坂 Akasaka Everforest </h3>
+<p align="center">
+  <a href="https://github.com/Haruno19/dotfiles/tree/main/MacOS/Akasaka%20Everforest">
+    <img width="70%" alt="akasaka_everforest" src="https://github.com/user-attachments/assets/2da48dcc-8d11-4f78-a32b-53d79b97b3e3" />
+  </a>
+</p><br>
 
 <h3 align="center"> 傘 kasa </h3>
 <p align="center">
