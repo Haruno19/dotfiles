@@ -1,6 +1,7 @@
 <h1 align="center"> Serial Experiments Lain</h1>
-<img width="60%" align="left" src="https://user-images.githubusercontent.com/61376940/182816884-61e7d3ad-f41f-46bc-b608-3d2c86725994.png">
 <h2> Description & Details</h2>  
+<img width="60%" align="left" src="https://user-images.githubusercontent.com/61376940/182816884-61e7d3ad-f41f-46bc-b608-3d2c86725994.png">
+
 <h6><i>Created on 03 August 2022</i></h6><br>
 <p> 
   <b>Serial Experiments Lain</b> is one of my favorite anime series of all time, so I wanted to tribute it with a setup and share its dotfiles.
