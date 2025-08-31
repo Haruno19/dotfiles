@@ -1,4 +1,4 @@
-<h1 align="center">　赤坂 Akasaka Everforest - Windows version </h1>
+<h1 align="center">　赤坂 Akasaka Everforest - Windows Version </h1>
 <h2> Description & Details</h2>  
 <img width="60%" align="left" src="https://github.com/user-attachments/assets/44aa74a7-c41e-447e-b6ec-ecaa2fd6138a">
 
