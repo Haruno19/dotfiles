@@ -129,8 +129,20 @@
 
 <h2 align="center"> ❖ Windows 10 </h2>
 
+<h3 align="center"> 赤坂 Akasaka Everforest - Windows Version </h3>
 <p align="center">
-  <img src="https://i.imgur.com/N9Ey4Os.jpg" width="32%" />
-  &nbsp;
-  <img src="https://i.imgur.com/HpZoXud.png" width="32%" />
+  <a href="https://github.com/Haruno19/dotfiles/tree/main/Windows">
+    <img width="70%" alt="lain" src="https://github.com/user-attachments/assets/48c98cff-4bed-4121-8cc0-a6a5cda28741">
+  </a>
+</p><br>
+
+<h3 align="center"> Old themes </h3>
+<p align="center">
+  <a href="https://github.com/Haruno19/dotfiles/tree/main/Windows/Old%20stuff">
+    <img src="https://i.imgur.com/N9Ey4Os.jpg" width="32%" />
+    &nbsp;
+  </a>
+  <a href="https://github.com/Haruno19/dotfiles/tree/main/Windows/Old%20stuff">
+    <img src="https://i.imgur.com/HpZoXud.png" width="32%" />
+  </a>
 </p>
