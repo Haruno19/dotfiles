@@ -1,6 +1,7 @@
 Invoke-Expression (& { (zoxide init powershell | Out-String) })
 
 Set-Alias -Name "cd" -Value z -Option AllScope
+Set-Alias -Name "open" -Value ii -Option AllScope
 
 Set-PSReadLineKeyHandler -Key UpArrow -Function HistorySearchBackward
 Set-PSReadLineKeyHandler -Key DownArrow -Function HistorySearchForward
@@ -59,3 +60,4 @@ function prompt {
 function Refresh-Path {
     $env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine") + ";" + [System.Environment]::GetEnvironmentVariable("Path","User")
 }
+
