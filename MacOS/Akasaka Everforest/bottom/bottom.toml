@@ -12,20 +12,24 @@
     type="cpu"
   [[row.child]]
     type="proc"
+    
 [[row]]
     ratio=30
     [[row.child]]
       type="mem"
     [[row.child]]
-      type="disk"
+      [[row.child.child]]
+        type="battery"
+      [[row.child.child]]
+        type="disk"
     
 [[row]]
   ratio=30
   [[row.child]]
     type="net"
   [[row.child]]
-      [[row.child.child]]
-        type="temp"
-      [[row.child.child]]
-        type="battery"
+    type="temp"
+
+[styles]
+theme = "gruvbox"
   
