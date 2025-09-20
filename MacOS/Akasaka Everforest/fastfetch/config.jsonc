@@ -14,8 +14,8 @@
     "break",
     {
       "type": "custom",
-      "format": " おかえり❣︎",
-      "outputColor": "cyan"
+      "format": "             おかえり❣︎",
+      "outputColor": "yellow"
     },
     {
       "type": "custom",
@@ -55,6 +55,11 @@
     {
       "type": "custom",
       "format": "└─────────────────────────────────┘"
+    },
+    {
+      "type": "colors",
+      "symbol": "square",
+      "paddingLeft": 10
     }
   ]
 }
