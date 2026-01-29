@@ -14,68 +14,22 @@
       "**/.factorypath": true,
       "**/.vscode": true,
       "**/*.meta": true,
-      "**/Icon*": true
+      "**/Icon*": true,
+      "**/.python-version" : true,
+      "**/__pycache__" : true
   },
   "window.customTitleBarVisibility": "windowed",
   "workbench.activityBar.location": "bottom",
   "window.titleBarStyle" : "custom",
   "chat.commandCenter.enabled": false,
-  "workbench.statusBar.visible": false,
   "workbench.navigationControl.enabled": false,
   
   "editor.fontSize": 13,
-  "editor.fontFamily": "Menlo, JetBrainsMonoNL Nerd Font",
+  "editor.fontFamily": "Menlo",
   "workbench.productIconTheme": "icons-carbon",
   "workbench.iconTheme": "icons",
-  "workbench.colorTheme": "Everforest Dark",
-  "workbench.preferredDarkColorTheme": "Everforest Dark",
-  "workbench.preferredLightColorTheme": "Everforest Light",
-
-  "workbench.colorCustomizations": {
-    "[*Dark*]": {
-      "input.background": "#191919",
-      "list.activeSelectionBackground": "#191919",
-      "list.hoverBackground": "#191919",
-      "editorWidget.background": "#191919",
-      "panel.background": "#191919",
-      "titleBar.activeBackground": "#131313",
-      "titleBar.inactiveBackground": "#131313",
-      "breadcrumbPicker.background": "#191919",
-      "settings.dropdownBackground": "#191919",
-      "settings.numberInputBackground": "#191919",
-      "settings.textInputBackground": "#191919",
-      "settings.checkboxBackground": "#191919",
-      "editor.background": "#0f0f0f",
-      "tab.activeBackground": "#0f0f0f",
-      "statusBar.noFolderBackground": "#0f0f0f",
-      "editorHoverWidget.background": "#0f0f0f",
-      "menu.background": "#0f0f0f",
-      "editorGroupHeader.tabsBackground": "#0f0f0f",
-      "debugToolBar.background": "#0f0f0f",
-      "editorBracketMatch.background": "#0f0f0f",
-      "quickInput.background": "#0f0f0f",
-      "tab.inactiveBackground": "#131313",
-      "sideBar.background": "#131313",
-      "sideBarSectionHeader.background": "#131313",
-      "activityBar.background": "#131313",
-      "statusBar.background": "#131313",
-      "tab.hoverBackground": "#131313",
-      "editorOverviewRuler.border": "#0f0f0f",
-      "notifications.background": "#0f0f0f",
-      "breadcrumb.background": "#0f0f0f"
-    },
-    "[Everforest Light]": {
-      "editor.background": "#FFFAEE",
-      "sideBar.background": "#FFFAEE",
-      "menu.background": "#FFFAEE",
-      "tab.inactiveBackground": "#FFFAEE",
-      "titleBar.activeBackground": "#FFFAEE",
-      "titleBar.inactiveBackground": "#FFFAEE",
-      "panel.background": "#FFFAEE",
-      "banner.background": "#FFFAEE",
-      "editorGroupHeader.tabsBackground": "#FFFAEE"
-    }
-  },
+  "workbench.preferredDarkColorTheme": "Everforest Higure",
+  "workbench.preferredLightColorTheme": "Everforest Yoake",
 
   "workbench.list.smoothScrolling": true,
   "editor.smoothScrolling": true,
@@ -83,5 +37,34 @@
   "git.confirmSync": false,
   "workbench.editor.editorActionsLocation": "hidden",
   "telemetry.telemetryLevel": "off",
-  "security.workspace.trust.untrustedFiles": "open"
+  "security.workspace.trust.untrustedFiles": "open",
+  "remote.SSH.useLocalServer": false,
+  "remote.SSH.remotePlatform": {
+    "213.171.186.196": "linux",
+    "redix_seeweb": "linux"
+  },
+  "editor.wordWrap": "on",
+  "chat.agent.enabled": false,
+  "chat.checkpoints.enabled": false,
+  "chat.mcp.gallery.enabled": true,
+  "workbench.secondarySideBar.defaultVisibility": "hidden",
+  "scm.repositories.selectionMode": "single",
+  "git.blame.editorDecoration.enabled": true,
+  "git.mergeEditor": true,
+  "git.showActionButton": {
+    "publish": false
+  },
+  "workbench.settings.showAISearchToggle": false,
+  "C_Cpp.copilotHover": "disabled",
+  "python.experiments.enabled": false,
+  "[csv]": {
+    "editor.inlayHints.maximumLength": 0
+  },
+  "workbench.colorTheme": "Everforest Higure",
+  "claudeCode.preferredLocation": "sidebar",
+  "chat.agent.thinking.generateTitles": false,
+  "chat.agent.codeBlockProgress": false,
+  "chat.disableAIFeatures": true,
+  "chat.detectParticipant.enabled": false,
+  "git.openRepositoryInParentFolders": "always"
 }
