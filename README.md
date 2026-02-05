@@ -134,12 +134,19 @@
 </p><br>
 
 
-<h2 align="center"> ❖ Windows 10 </h2>
+<h2 align="center"> ❖ Windows </h2>
 
-<h3 align="center"> 赤坂 Akasaka Everforest - Windows Version </h3>
+<h3 align="center"> 赤坂 Akasaka Everforest </h3>
 <p align="center">
-  <a href="https://github.com/Haruno19/dotfiles/tree/main/Windows">
+  <a href="https://github.com/Haruno19/dotfiles/tree/main/Windows/Akasaka%20Everforest">
     <img width="70%" alt="lain" src="https://github.com/user-attachments/assets/48c98cff-4bed-4121-8cc0-a6a5cda28741">
+  </a>
+</p><br>
+
+<h3 align="center"> 🌿 apothecary </h3>
+<p align="center">
+  <a href="https://github.com/Haruno19/dotfiles/tree/main/Windows/apothecary">
+    <img width="70%" alt="lain" src="">
   </a>
 </p><br>
 
