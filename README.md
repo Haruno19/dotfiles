@@ -139,14 +139,13 @@
 <h3 align="center"> 赤坂 Akasaka Everforest </h3>
 <p align="center">
   <a href="https://github.com/Haruno19/dotfiles/tree/main/Windows/Akasaka%20Everforest">
-    <img width="70%" alt="lain" src="https://github.com/user-attachments/assets/48c98cff-4bed-4121-8cc0-a6a5cda28741">
+    <img width="70%" alt="akasaka" src="https://github.com/user-attachments/assets/48c98cff-4bed-4121-8cc0-a6a5cda28741">
   </a>
 </p><br>
 
 <h3 align="center"> 🌿 apothecary </h3>
 <p align="center">
   <a href="https://github.com/Haruno19/dotfiles/tree/main/Windows/apothecary">
-    <img width="70%" alt="lain" src="">
+    <img width="70%" alt="apothecary" src="https://github.com/user-attachments/assets/e3726bd0-257d-4291-861e-a182844cd774">
   </a>
 </p><br>
-
