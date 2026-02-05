@@ -1,6 +1,6 @@
 <h1 align="center">　🌿 apothecary </h1>
 <h2> Description & Details</h2>  
-<img width="60%" align="left" src="">
+<img width="60%" align="left" src="https://github.com/user-attachments/assets/d880fa4a-d396-4e4e-8ce9-a852cc8f1664">
 
 <h6><i>Created on 05 February 2026</i></h6><br>
 <p> 
