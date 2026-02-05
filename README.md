@@ -8,7 +8,7 @@
         <a href="https://github.com/Haruno19/dotfiles/tree/main#--linux"> <b>Linux</b> </a>
     </td>
     <td>
-        <a href="https://github.com/Haruno19/dotfiles/tree/main#--windows-10-"> <b>Windows</b> </a>
+        <a href="https://github.com/Haruno19/dotfiles/tree/main#--windows"> <b>Windows</b> </a>
     </td>
   </tr>
   <tr></table>
