@@ -1,0 +1,89 @@
+# Import modules
+Import-Module posh-git
+Import-Module Terminal-Icons
+
+Invoke-Expression (& { (zoxide init powershell | Out-String) })
+
+Set-Alias -Name "cd" -Value z -Option AllScope
+Set-Alias -Name "open" -Value ii -Option AllScope
+
+Set-Alias -Name "venv" -Value ".\.venv\Scripts\activate"
+
+function node_env {
+    $env:PATH = "$env:APPDATA\npm;C:\Users\stefano.gini\node;$env:PATH"
+    node --version
+}
+
+Set-PSReadLineKeyHandler -Key UpArrow -Function HistorySearchBackward
+Set-PSReadLineKeyHandler -Key DownArrow -Function HistorySearchForward
+
+Register-ArgumentCompleter -CommandName cd, Set-Location -ParameterName Path -ScriptBlock {
+    param($commandName, $parameterName, $wordToComplete, $commandAst, $fakeBoundParameters)
+
+    [System.Management.Automation.CompletionCompleters]::CompleteFilename($wordToComplete) |
+        ForEach-Object {
+            $text = $_.CompletionText -replace '^(?:\./|\.\\)', ''
+            $listText = $_.ListItemText -replace '^(?:\./|\.\\)', ''
+
+            [System.Management.Automation.CompletionResult]::new(
+                $text,
+                $listText,
+                $_.ResultType,
+                $_.ToolTip
+            )
+        }
+}
+
+function prompt {
+    $isAdmin = ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator")
+    
+    $lastSuccess = $?
+    
+    if ($isAdmin) {
+        if ($lastSuccess) {
+            $arrowPrompt = "$([char]27)[1;31m$([char]27)[1;33m$([char]27)[1;31m $([char]27)[0m"
+        } else {
+            $arrowPrompt = "$([char]27)[1;31m $([char]27)[0m"
+        }
+    } else {
+        if ($lastSuccess) {
+            $arrowPrompt = "$([char]27)[1;31m$([char]27)[1;32m$([char]27)[1;33m $([char]27)[0m"
+        } else {
+            $arrowPrompt = "$([char]27)[1;31m $([char]27)[0m"
+        }
+    }
+    
+    $currentPath = Get-Location
+    $homePath = $env:HOME ?? $env:USERPROFILE
+    
+    if ($currentPath.Path -eq $homePath) {
+        $currentDir = "~"
+    } else {
+        $currentDir = Split-Path -Leaf $currentPath
+        if ($currentDir -eq "") { $currentDir = "/" }
+    }
+    
+    $dirPrompt = "$([char]27)[33m  $currentDir$([char]27)[0m"
+    
+    $gitPrompt = ""
+    $gitStatus = Get-GitStatus
+    if ($gitStatus) {
+        $gitPrompt = "$([char]27)[34m  git:($([char]27)[31m$($gitStatus.Branch)$([char]27)[34m)"
+        
+        if ($gitStatus.HasWorking -or $gitStatus.HasUntracked) {
+            $gitPrompt += "$([char]27)[33m "
+        }
+        
+        $gitPrompt += "$([char]27)[0m"
+    }
+    
+    $global:LASTEXITCODE = $realLASTEXITCODE
+
+    return $arrowPrompt + $dirPrompt + $gitPrompt +  " "
+}
+
+function Refresh-Path {
+    $env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine") + ";" + [System.Environment]::GetEnvironmentVariable("Path","User")
+}
+
+$env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine") + ";" + [System.Environment]::GetEnvironmentVariable("Path","User") + ";C:\Program Files\LibreOffice\program" 
