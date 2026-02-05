@@ -22,6 +22,13 @@
 <br>
 <h2 align="center">  MacOS</h2><br>
 
+<h3 align="center"> 🌿 apothecary </h3>
+<p align="center">
+  <a href="https://github.com/Haruno19/dotfiles/tree/main/MacOS/apothecary">
+    <img width="70%" alt="apothecary" src="https://github.com/user-attachments/assets/276cc0d0-4c0d-4f14-a084-bf0279479b2d" />
+  </a>
+</p><br>
+
 <h3 align="center"> 赤坂 Akasaka Everforest </h3>
 <p align="center">
   <a href="https://github.com/Haruno19/dotfiles/tree/main/MacOS/Akasaka%20Everforest">
