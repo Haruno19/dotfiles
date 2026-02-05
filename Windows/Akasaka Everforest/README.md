@@ -14,4 +14,4 @@
         <a href="https://github.com/Haruno19/dotfiles/tree/main/MacOS/Akasaka%20Everforest"> <b>MacOS ver</b> </a>
   </td></tr></table>
 </p>
-<h6><i>The "Old stuff" folder contains stuff from older themes...</i></h6>
+
