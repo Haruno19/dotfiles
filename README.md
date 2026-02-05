@@ -143,13 +143,3 @@
   </a>
 </p><br>
 
-<h3 align="center"> Old themes </h3>
-<p align="center">
-  <a href="https://github.com/Haruno19/dotfiles/tree/main/Windows/Old%20stuff">
-    <img src="https://i.imgur.com/N9Ey4Os.jpg" width="32%" />
-    &nbsp;
-  </a>
-  <a href="https://github.com/Haruno19/dotfiles/tree/main/Windows/Old%20stuff">
-    <img src="https://i.imgur.com/HpZoXud.png" width="32%" />
-  </a>
-</p>
