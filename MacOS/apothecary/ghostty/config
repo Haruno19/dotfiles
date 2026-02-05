@@ -1,0 +1,25 @@
+theme = everforest
+
+bold-is-bright = true
+
+window-height = 16
+window-width = 78
+
+macos-titlebar-style = tabs
+macos-window-buttons = visible
+
+window-title-font-family = Osaka-Mono
+
+font-family = Osaka-Mono
+font-size = 13
+
+keybind = ctrl+opt+enter=ignore
+
+background-blur = true
+background-opacity = 0.75
+background-blur-radius = 40
+
+keybind = shift+enter=text:\n
+
+shell-integration-features = sudo
+

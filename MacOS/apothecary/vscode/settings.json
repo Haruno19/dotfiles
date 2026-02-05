@@ -1,0 +1,70 @@
+{
+  "window.restoreWindows": "none",
+  "files.hotExit": "onExit",
+  "workbench.startupEditor": "none",
+  "extensions.ignoreRecommendations": true,
+  "files.associations": {
+      "*.pl": "prolog"
+  },
+  "editor.suggestSelection": "first",
+  "files.exclude": {
+      "**/.classpath": true,
+      "**/.project": true,
+      "**/.settings": true,
+      "**/.factorypath": true,
+      "**/.vscode": true,
+      "**/*.meta": true,
+      "**/Icon*": true,
+      "**/.python-version" : true,
+      "**/__pycache__" : true
+  },
+  "window.customTitleBarVisibility": "windowed",
+  "workbench.activityBar.location": "bottom",
+  "window.titleBarStyle" : "custom",
+  "chat.commandCenter.enabled": false,
+  "workbench.navigationControl.enabled": false,
+  
+  "editor.fontSize": 13,
+  "editor.fontFamily": "Menlo",
+  "workbench.productIconTheme": "icons-carbon",
+  "workbench.iconTheme": "icons",
+  "workbench.preferredDarkColorTheme": "Everforest Higure",
+  "workbench.preferredLightColorTheme": "Everforest Yoake",
+
+  "workbench.list.smoothScrolling": true,
+  "editor.smoothScrolling": true,
+  "editor.minimap.enabled": false,
+  "git.confirmSync": false,
+  "workbench.editor.editorActionsLocation": "hidden",
+  "telemetry.telemetryLevel": "off",
+  "security.workspace.trust.untrustedFiles": "open",
+  "remote.SSH.useLocalServer": false,
+  "remote.SSH.remotePlatform": {
+    "213.171.186.196": "linux",
+    "redix_seeweb": "linux"
+  },
+  "editor.wordWrap": "on",
+  "chat.agent.enabled": false,
+  "chat.checkpoints.enabled": false,
+  "chat.mcp.gallery.enabled": true,
+  "workbench.secondarySideBar.defaultVisibility": "hidden",
+  "scm.repositories.selectionMode": "single",
+  "git.blame.editorDecoration.enabled": true,
+  "git.mergeEditor": true,
+  "git.showActionButton": {
+    "publish": false
+  },
+  "workbench.settings.showAISearchToggle": false,
+  "C_Cpp.copilotHover": "disabled",
+  "python.experiments.enabled": false,
+  "[csv]": {
+    "editor.inlayHints.maximumLength": 0
+  },
+  "workbench.colorTheme": "Everforest Higure",
+  "claudeCode.preferredLocation": "sidebar",
+  "chat.agent.thinking.generateTitles": false,
+  "chat.agent.codeBlockProgress": false,
+  "chat.disableAIFeatures": true,
+  "chat.detectParticipant.enabled": false,
+  "git.openRepositoryInParentFolders": "always"
+}
