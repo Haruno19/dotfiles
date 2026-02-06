@@ -14,4 +14,7 @@
   <table><tr><td>
         <a href="https://github.com/Haruno19/dotfiles/blob/main/Wallpapers/apothecary.png"> <b>Wallpaper</b> </a>
   </td></tr></table>
+  <table><tr><td>
+        <a href="https://github.com/Haruno19/dotfiles/tree/main/Windows/apothecary"> <b>Windows Version</b> </a>
+  </td></tr></table>
 </p>
