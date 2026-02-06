@@ -17,6 +17,6 @@
         <a href="https://github.com/Haruno19/dotfiles/blob/main/Wallpapers/akasaka1.png"> <b>Wallpaper</b> </a>
   </td></tr></table>
    <table><tr><td>
-        <a href="https://github.com/Haruno19/dotfiles/tree/main/Windows"> <b>Windows Version</b> </a>
+        <a href="https://github.com/Haruno19/dotfiles/tree/main/Windows/Akasaka%20Everforest"> <b>Windows Version</b> </a>
   </td></tr></table>
 </p>
