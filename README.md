@@ -146,6 +146,7 @@
 <h3 align="center"> 🌿 apothecary </h3>
 <p align="center">
   <a href="https://github.com/Haruno19/dotfiles/tree/main/Windows/apothecary">
-    <img width="70%" alt="apothecary" src="https://github.com/user-attachments/assets/e3726bd0-257d-4291-861e-a182844cd774">
+    <img width="70%" alt="apothecary" src="https://github.com/user-attachments/assets/f0ee059c-5658-43bf-ab9e-b1a6a89545f3">
   </a>
 </p><br>
+
