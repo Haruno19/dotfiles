@@ -38,11 +38,6 @@
   "workbench.editor.editorActionsLocation": "hidden",
   "telemetry.telemetryLevel": "off",
   "security.workspace.trust.untrustedFiles": "open",
-  "remote.SSH.useLocalServer": false,
-  "remote.SSH.remotePlatform": {
-    "213.171.186.196": "linux",
-    "redix_seeweb": "linux"
-  },
   "editor.wordWrap": "on",
   "chat.agent.enabled": false,
   "chat.checkpoints.enabled": false,
