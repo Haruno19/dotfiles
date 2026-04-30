@@ -22,6 +22,13 @@
 <br>
 <h2 align="center">  MacOS</h2><br>
 
+<h3 align="center"> 日暮れ Higure </h3>
+<p align="center">
+  <a href="https://github.com/Haruno19/dotfiles/tree/main/MacOS/higure">
+    <img width="70%" alt="apothecary" src="https://github.com/user-attachments/assets/e3c652bb-1d08-43e3-a319-9f658920a085" />
+  </a>
+</p><br>
+
 <h3 align="center"> 🌿 apothecary </h3>
 <p align="center">
   <a href="https://github.com/Haruno19/dotfiles/tree/main/MacOS/apothecary">
