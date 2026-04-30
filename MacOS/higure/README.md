@@ -1,6 +1,6 @@
-<h1 align="center">　🌿 apothecary </h1>
+<h1 align="center">　日暮れ higure </h1>
 <h2> Description & Details</h2>  
-<img width="60%" align="left" src="">
+<img width="60%" align="left" src="https://github.com/user-attachments/assets/32f171c5-b348-409f-8ac9-1113a9fca70f"">
 
 <h6><i>Created on 30 April 2026</i></h6><br>
 <p> 
