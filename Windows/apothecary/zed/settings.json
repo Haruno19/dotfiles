@@ -46,6 +46,17 @@
   "cli_default_open_behavior": "existing_window",
   "icon_theme": "Colored Zed Icons Theme Dark",
   "project_panel": {
+    "hide_root": false,
+    "indent_guides": {
+      "show": "never"
+    },
+    "diagnostic_badges": false,
+    "show_diagnostics": "errors",
+    "bold_folder_labels": false,
+    "indent_size": 12.0,
+    "folder_icons": true,
+    "entry_spacing": "standard",
+    "default_width": 240.0,
     "git_status_indicator": true,
     "button": true,
     "dock": "left",
