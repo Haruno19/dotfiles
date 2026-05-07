@@ -7,6 +7,19 @@
 // custom settings, run `zed: open default settings` from the
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
+  "debugger": {
+    "dock": "left"
+  },
+  "inline_code_actions": false,
+  "languages": {
+    "CSharp": {
+      "enable_language_server": false
+    }
+  },
+  "gutter": {
+    "runnables": false,
+    "line_numbers": true
+  },
   "diff_view_style": "unified",
   "preview_tabs": {
     "enable_preview_from_project_panel": false,
@@ -76,6 +89,8 @@
     "model_parameters": [],
   },
   "git_panel": {
+    "status_style": "icon",
+    "button": true,
     "dock": "left",
   },
   "telemetry": {
