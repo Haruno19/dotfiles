@@ -1,0 +1,130 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette (cmd-shift-p / ctrl-shift-p)
+{
+  "ui_font_family": ".ZedSans",
+  "session": {
+    "trust_all_worktrees": true
+  },
+  "restore_on_startup": "launchpad",
+  "debugger": {
+    "dock": "left",
+  },
+  "inline_code_actions": false,
+  "languages": {
+    "CSharp": {
+      "enable_language_server": false,
+    },
+  },
+  "gutter": {
+    "runnables": false,
+    "line_numbers": true,
+  },
+  "diff_view_style": "unified",
+  "preview_tabs": {
+    "enable_preview_from_project_panel": false,
+    "enabled": false,
+  },
+  "edit_predictions": {
+    "provider": "none",
+    "allow_data_collection": "no",
+  },
+  "show_edit_predictions": false,
+  "tabs": {
+    "show_close_button": "hover",
+    "file_icons": false,
+    "git_status": true,
+  },
+  "title_bar": {
+    "show_menus": false,
+    "show_user_picture": false,
+    "show_user_menu": true,
+    "show_sign_in": false,
+    "show_onboarding_banner": false,
+    "show_branch_status_icon": true,
+  },
+  "search": {
+    "button": true,
+  },
+  "diagnostics": {
+    "button": true,
+  },
+  "terminal": {
+    "font_family": "Menlo",
+    "button": false,
+  },
+  "status_bar": {
+    "cursor_position_button": true,
+    "active_language_button": true,
+  },
+  "cli_default_open_behavior": "existing_window",
+  "icon_theme": "Colored Zed Icons Theme Dark",
+  "project_panel": {
+    "hide_root": false,
+    "indent_guides": {
+      "show": "never",
+    },
+    "diagnostic_badges": false,
+    "show_diagnostics": "errors",
+    "bold_folder_labels": false,
+    "indent_size": 12.0,
+    "folder_icons": true,
+    "entry_spacing": "standard",
+    "default_width": 240.0,
+    "git_status_indicator": true,
+    "button": true,
+    "dock": "left",
+  },
+  "outline_panel": {
+    "button": false,
+    "dock": "left",
+  },
+  "collaboration_panel": {
+    "button": false,
+    "dock": "left",
+  },
+  "agent": {
+    "sidebar_side": "right",
+    "dock": "right",
+    "favorite_models": [],
+    "model_parameters": [],
+  },
+  "git_panel": {
+    "status_style": "icon",
+    "button": true,
+    "dock": "left",
+  },
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false,
+  },
+  "tab_bar": {
+    "show_nav_history_buttons": false,
+    "show": true,
+    "show_tab_bar_buttons": false,
+  },
+  "minimap": {
+    "show": "never",
+  },
+  "buffer_font_fallbacks": ["Consolas", "Courier New", "monospace"],
+  "buffer_font_family": "Menlo",
+  "soft_wrap": "none",
+  "agent_servers": {
+    "claude-acp": {
+      "type": "registry",
+    },
+  },
+  "base_keymap": "VSCode",
+  "ui_font_size": 16,
+  "buffer_font_size": 13.0,
+  "theme": {
+    "mode": "system",
+    "light": "Everforest Yoake",
+    "dark": "Everforest Higure",
+  },
+}
