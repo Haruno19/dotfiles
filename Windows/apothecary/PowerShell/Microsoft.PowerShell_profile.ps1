@@ -2,8 +2,6 @@
 Import-Module posh-git
 Import-Module Terminal-Icons
 
-Invoke-Expression (& { (zoxide init powershell | Out-String) })
-
 Set-Alias -Name "cd" -Value z -Option AllScope
 Set-Alias -Name "open" -Value ii -Option AllScope
 
@@ -87,3 +85,5 @@ function Refresh-Path {
 }
 
 $env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine") + ";" + [System.Environment]::GetEnvironmentVariable("Path","User") + ";C:\Program Files\LibreOffice\program" 
+
+Invoke-Expression (& { (zoxide init powershell | Out-String) })
